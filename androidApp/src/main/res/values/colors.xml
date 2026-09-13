@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The bg-shade-1 navy from pretendo.network's stylesheet. -->
+    <color name="pretendo_background">#1B1F3B</color>
+</resources>

@@ -1,0 +1,1476 @@
+{
+ "users": [
+  {
+   "id": 655,
+   "username": "ExpertGem",
+   "avatar_template": "/user_avatar/forum.pretendo.network/expertgem/{size}/59819_2.png",
+   "primary_group_name": "head-moderators",
+   "flair_name": "head-moderators",
+   "flair_url": "/uploads/default/original/3X/1/2/12d50c55931ff6602491df16082df7640d8a6717.webp",
+   "flair_group_id": 51,
+   "moderator": true,
+   "trust_level": 4
+  },
+  {
+   "id": 10,
+   "username": "GamersInternatio",
+   "avatar_template": "/user_avatar/forum.pretendo.network/gamersinternatio/{size}/61851_2.png",
+   "primary_group_name": "category-moderators",
+   "flair_name": "moderators",
+   "flair_url": "/uploads/default/original/3X/1/2/127fe2f0458f600629bf38e53a8447bc9190fca0.webp",
+   "flair_color": "00A000",
+   "flair_group_id": 2,
+   "moderator": true,
+   "trust_level": 4
+  },
+  {
+   "id": 24064,
+   "username": "Seaway100",
+   "avatar_template": "/user_avatar/forum.pretendo.network/seaway100/{size}/62046_2.png",
+   "trust_level": 1
+  },
+  {
+   "id": 5617,
+   "username": "Shock_Tart",
+   "avatar_template": "/user_avatar/forum.pretendo.network/shock_tart/{size}/62580_2.png",
+   "trust_level": 1
+  },
+  {
+   "id": 10105,
+   "username": "a9ubusoft1",
+   "avatar_template": "/user_avatar/forum.pretendo.network/a9ubusoft1/{size}/47061_2.png",
+   "trust_level": 1
+  },
+  {
+   "id": 12717,
+   "username": "DrPepperPro",
+   "avatar_template": "/user_avatar/forum.pretendo.network/drpepperpro/{size}/62211_2.png",
+   "trust_level": 3
+  },
+  {
+   "id": 3066,
+   "username": "Joshua8600PNID",
+   "avatar_template": "/user_avatar/forum.pretendo.network/joshua8600pnid/{size}/46995_2.png",
+   "flair_name": "admins",
+   "flair_url": "/uploads/default/original/3X/5/a/5a4d111dd1091c4a4b11b073d038a7a827829a3e.webp",
+   "flair_color": "D00000",
+   "flair_group_id": 1,
+   "admin": true,
+   "moderator": true,
+   "trust_level": 4
+  },
+  {
+   "id": 22567,
+   "username": "Lynoxx",
+   "avatar_template": "/user_avatar/forum.pretendo.network/lynoxx/{size}/59841_2.png",
+   "trust_level": 0
+  },
+  {
+   "id": -1,
+   "username": "system",
+   "avatar_template": "/uploads/default/original/1X/5297dad82461e0bb646fce8b787fc8002d853978.png",
+   "flair_name": "admins",
+   "flair_url": "/uploads/default/original/3X/5/a/5a4d111dd1091c4a4b11b073d038a7a827829a3e.webp",
+   "flair_color": "D00000",
+   "flair_group_id": 1,
+   "admin": true,
+   "moderator": true,
+   "trust_level": 4
+  },
+  {
+   "id": 13224,
+   "username": "tomnook360",
+   "avatar_template": "/user_avatar/forum.pretendo.network/tomnook360/{size}/61528_2.png",
+   "trust_level": 2
+  },
+  {
+   "id": 13795,
+   "username": "Ruibono",
+   "avatar_template": "/user_avatar/forum.pretendo.network/ruibono/{size}/62738_2.png",
+   "trust_level": 1
+  },
+  {
+   "id": 10510,
+   "username": "Panchito1505",
+   "avatar_template": "/user_avatar/forum.pretendo.network/panchito1505/{size}/62005_2.png",
+   "trust_level": 3
+  },
+  {
+   "id": 13509,
+   "username": "Mayo4567",
+   "avatar_template": "/user_avatar/forum.pretendo.network/mayo4567/{size}/61698_2.png",
+   "trust_level": 3
+  },
+  {
+   "id": 18085,
+   "username": "Pikukat",
+   "avatar_template": "/user_avatar/forum.pretendo.network/pikukat/{size}/61515_2.png",
+   "trust_level": 2
+  },
+  {
+   "id": 21329,
+   "username": "StarDaCat24",
+   "avatar_template": "/user_avatar/forum.pretendo.network/stardacat24/{size}/61588_2.png",
+   "trust_level": 3
+  },
+  {
+   "id": 96,
+   "username": "Asomn360",
+   "avatar_template": "/user_avatar/forum.pretendo.network/asomn360/{size}/49353_2.png",
+   "trust_level": 2
+  },
+  {
+   "id": 24243,
+   "username": "blossomfaith",
+   "avatar_template": "/user_avatar/forum.pretendo.network/blossomfaith/{size}/62340_2.png",
+   "trust_level": 1
+  },
+  {
+   "id": 23588,
+   "username": "Luke-Kusica",
+   "avatar_template": "/user_avatar/forum.pretendo.network/luke-kusica/{size}/61234_2.png",
+   "trust_level": 0
+  },
+  {
+   "id": 24443,
+   "username": "gringleguy7",
+   "avatar_template": "/user_avatar/forum.pretendo.network/gringleguy7/{size}/62697_2.png",
+   "trust_level": 0
+  },
+  {
+   "id": 24323,
+   "username": "Jotapee",
+   "avatar_template": "/user_avatar/forum.pretendo.network/jotapee/{size}/62480_2.png",
+   "trust_level": 0
+  },
+  {
+   "id": 2180,
+   "username": "vyrval",
+   "avatar_template": "/user_avatar/forum.pretendo.network/vyrval/{size}/47204_2.png",
+   "trust_level": 2
+  },
+  {
+   "id": 24405,
+   "username": "Kailex",
+   "avatar_template": "/user_avatar/forum.pretendo.network/kailex/{size}/62646_2.png",
+   "trust_level": 0
+  },
+  {
+   "id": 17353,
+   "username": "Wiimiiboi15",
+   "avatar_template": "/user_avatar/forum.pretendo.network/wiimiiboi15/{size}/62652_2.png",
+   "trust_level": 0
+  },
+  {
+   "id": 18315,
+   "username": "Rasberry2016",
+   "avatar_template": "/user_avatar/forum.pretendo.network/rasberry2016/{size}/52871_2.png",
+   "trust_level": 2
+  },
+  {
+   "id": 22263,
+   "username": "solaceinruin",
+   "avatar_template": "/user_avatar/forum.pretendo.network/solaceinruin/{size}/61760_2.png",
+   "trust_level": 2
+  },
+  {
+   "id": 6,
+   "username": "PN_quarky",
+   "avatar_template": "/user_avatar/forum.pretendo.network/pn_quarky/{size}/61858_2.png",
+   "primary_group_name": "head-moderators",
+   "flair_name": "head-moderators",
+   "flair_url": "/uploads/default/original/3X/1/2/12d50c55931ff6602491df16082df7640d8a6717.webp",
+   "flair_group_id": 51,
+   "moderator": true,
+   "trust_level": 4
+  },
+  {
+   "id": 23804,
+   "username": "HappilyUnaware72",
+   "avatar_template": "/user_avatar/forum.pretendo.network/happilyunaware72/{size}/61585_2.png",
+   "trust_level": 1
+  },
+  {
+   "id": 9949,
+   "username": "Luxusvilla",
+   "avatar_template": "/user_avatar/forum.pretendo.network/luxusvilla/{size}/62653_2.png",
+   "trust_level": 1
+  },
+  {
+   "id": 206,
+   "username": "ImoraPNID",
+   "avatar_template": "/user_avatar/forum.pretendo.network/imorapnid/{size}/55526_2.png",
+   "primary_group_name": "network-moderators",
+   "flair_name": "network-moderators",
+   "flair_url": "/uploads/default/original/3X/4/f/4fcc7d666ef7a776d706a7dc8d8e44e6248c8cf5.webp",
+   "flair_group_id": 49,
+   "trust_level": 3
+  },
+  {
+   "id": 24081,
+   "username": "gordini",
+   "avatar_template": "/user_avatar/forum.pretendo.network/gordini/{size}/61451_2.png",
+   "trust_level": 0
+  },
+  {
+   "id": 24021,
+   "username": "PopiPapa",
+   "avatar_template": "/user_avatar/forum.pretendo.network/popipapa/{size}/61451_2.png",
+   "trust_level": 0
+  },
+  {
+   "id": 2,
+   "username": "PN_Jon",
+   "avatar_template": "/user_avatar/forum.pretendo.network/pn_jon/{size}/46999_2.png",
+   "flair_name": "admins",
+   "flair_url": "/uploads/default/original/3X/5/a/5a4d111dd1091c4a4b11b073d038a7a827829a3e.webp",
+   "flair_color": "D00000",
+   "flair_group_id": 1,
+   "admin": true,
+   "moderator": true,
+   "trust_level": 4
+  },
+  {
+   "id": 503,
+   "username": "tbaggerofsteam",
+   "avatar_template": "/user_avatar/forum.pretendo.network/tbaggerofsteam/{size}/62811_2.png",
+   "trust_level": 0
+  },
+  {
+   "id": 10472,
+   "username": "xQlusius",
+   "avatar_template": "/user_avatar/forum.pretendo.network/xqlusius/{size}/52151_2.png",
+   "trust_level": 1
+  },
+  {
+   "id": 10091,
+   "username": "anon51951983",
+   "avatar_template": "/letter_avatar_proxy/v4/letter/a/f1d935/{size}.png",
+   "trust_level": 2
+  },
+  {
+   "id": 17572,
+   "username": "SamOnO3DSXL",
+   "avatar_template": "/user_avatar/forum.pretendo.network/samono3dsxl/{size}/58802_2.png",
+   "trust_level": 2
+  },
+  {
+   "id": 547,
+   "username": "PizzaPizza72",
+   "avatar_template": "/user_avatar/forum.pretendo.network/pizzapizza72/{size}/47077_2.png",
+   "trust_level": 2
+  },
+  {
+   "id": 10151,
+   "username": "mjthecat",
+   "avatar_template": "/user_avatar/forum.pretendo.network/mjthecat/{size}/47080_2.png",
+   "trust_level": 2
+  },
+  {
+   "id": 6211,
+   "username": "Gamer_Itsuki",
+   "avatar_template": "/user_avatar/forum.pretendo.network/gamer_itsuki/{size}/61042_2.png",
+   "trust_level": 3
+  },
+  {
+   "id": 24496,
+   "username": "NoahTendo",
+   "avatar_template": "/user_avatar/forum.pretendo.network/noahtendo/{size}/62784_2.png",
+   "trust_level": 0
+  },
+  {
+   "id": 24508,
+   "username": "karaio_Br",
+   "avatar_template": "/user_avatar/forum.pretendo.network/karaio_br/{size}/62807_2.png",
+   "trust_level": 1
+  },
+  {
+   "id": 2046,
+   "username": "OS91hmbrwID",
+   "avatar_template": "/user_avatar/forum.pretendo.network/os91hmbrwid/{size}/61844_2.png",
+   "trust_level": 3
+  },
+  {
+   "id": 5806,
+   "username": "ArtU26",
+   "avatar_template": "/user_avatar/forum.pretendo.network/artu26/{size}/61873_2.png",
+   "primary_group_name": "support-helper",
+   "flair_name": "support-helper",
+   "flair_url": "/uploads/default/original/3X/9/d/9d9d81fd613e497efe0078a8d449e9189f3b4ade.webp",
+   "flair_group_id": 50,
+   "trust_level": 3
+  },
+  {
+   "id": 20365,
+   "username": "Chabshaile",
+   "avatar_template": "/user_avatar/forum.pretendo.network/chabshaile/{size}/56422_2.png",
+   "trust_level": 2
+  },
+  {
+   "id": 7029,
+   "username": "zDavid",
+   "avatar_template": "/user_avatar/forum.pretendo.network/zdavid/{size}/60934_2.png",
+   "trust_level": 3
+  },
+  {
+   "id": 4179,
+   "username": "DeletedAccount",
+   "avatar_template": "/user_avatar/forum.pretendo.network/deletedaccount/{size}/23611_2.png",
+   "trust_level": 0
+  },
+  {
+   "id": 7810,
+   "username": "Mrreed",
+   "avatar_template": "/user_avatar/forum.pretendo.network/mrreed/{size}/14163_2.png",
+   "trust_level": 1
+  },
+  {
+   "id": 24404,
+   "username": "Kirodochi",
+   "avatar_template": "/user_avatar/forum.pretendo.network/kirodochi/{size}/61451_2.png",
+   "trust_level": 0
+  },
+  {
+   "id": 24506,
+   "username": "Conslalo",
+   "avatar_template": "/user_avatar/forum.pretendo.network/conslalo/{size}/62799_2.png",
+   "trust_level": 0
+  },
+  {
+   "id": 24439,
+   "username": "commandbaker333",
+   "avatar_template": "/user_avatar/forum.pretendo.network/commandbaker333/{size}/61451_2.png",
+   "trust_level": 0
+  },
+  {
+   "id": 22901,
+   "username": "GoldFlake71",
+   "avatar_template": "/user_avatar/forum.pretendo.network/goldflake71/{size}/62155_2.png",
+   "trust_level": 2
+  },
+  {
+   "id": 20246,
+   "username": "bros23",
+   "avatar_template": "/user_avatar/forum.pretendo.network/bros23/{size}/62742_2.png",
+   "trust_level": 2
+  },
+  {
+   "id": 7443,
+   "username": "verycool88",
+   "avatar_template": "/user_avatar/forum.pretendo.network/verycool88/{size}/59981_2.png",
+   "trust_level": 2
+  },
+  {
+   "id": 21964,
+   "username": "AgorassPIID",
+   "avatar_template": "/user_avatar/forum.pretendo.network/agorasspiid/{size}/61185_2.png",
+   "trust_level": 2
+  },
+  {
+   "id": 4247,
+   "username": "imadboy",
+   "avatar_template": "/user_avatar/forum.pretendo.network/imadboy/{size}/46168_2.png",
+   "trust_level": 1
+  },
+  {
+   "id": 338,
+   "username": "JoJo64",
+   "avatar_template": "/user_avatar/forum.pretendo.network/jojo64/{size}/47637_2.png",
+   "trust_level": 2
+  },
+  {
+   "id": 8357,
+   "username": "Ballout3z",
+   "avatar_template": "/user_avatar/forum.pretendo.network/ballout3z/{size}/24507_2.png",
+   "trust_level": 1
+  },
+  {
+   "id": 24160,
+   "username": "Crawfly0",
+   "avatar_template": "/user_avatar/forum.pretendo.network/crawfly0/{size}/62186_2.png",
+   "trust_level": 0
+  },
+  {
+   "id": 24497,
+   "username": "GRETANOVASTAR",
+   "avatar_template": "/user_avatar/forum.pretendo.network/gretanovastar/{size}/62787_2.png",
+   "trust_level": 0
+  },
+  {
+   "id": 23715,
+   "username": "Ganatann",
+   "avatar_template": "/user_avatar/forum.pretendo.network/ganatann/{size}/61415_2.png",
+   "trust_level": 0
+  },
+  {
+   "id": 19188,
+   "username": "Drahs34456",
+   "avatar_template": "/user_avatar/forum.pretendo.network/drahs34456/{size}/46977_2.png",
+   "trust_level": 1
+  },
+  {
+   "id": 4089,
+   "username": "Fire_Bee12",
+   "avatar_template": "/user_avatar/forum.pretendo.network/fire_bee12/{size}/62534_2.png",
+   "trust_level": 3
+  },
+  {
+   "id": 16857,
+   "username": "SammySquash9608",
+   "avatar_template": "/user_avatar/forum.pretendo.network/sammysquash9608/{size}/58373_2.png",
+   "primary_group_name": "support-helper",
+   "flair_name": "support-helper",
+   "flair_url": "/uploads/default/original/3X/9/d/9d9d81fd613e497efe0078a8d449e9189f3b4ade.webp",
+   "flair_group_id": 50,
+   "trust_level": 3
+  },
+  {
+   "id": 4128,
+   "username": "Ondrashek06",
+   "avatar_template": "/user_avatar/forum.pretendo.network/ondrashek06/{size}/62535_2.png",
+   "primary_group_name": "category-moderators",
+   "flair_name": "category-moderators",
+   "flair_url": "/uploads/default/original/3X/1/2/127fe2f0458f600629bf38e53a8447bc9190fca0.webp",
+   "flair_group_id": 42,
+   "moderator": true,
+   "trust_level": 4
+  },
+  {
+   "id": 1158,
+   "username": "heroice18",
+   "avatar_template": "/user_avatar/forum.pretendo.network/heroice18/{size}/1366_2.png",
+   "trust_level": 0
+  },
+  {
+   "id": 2577,
+   "username": "DarkLink18",
+   "avatar_template": "/user_avatar/forum.pretendo.network/darklink18/{size}/47207_2.png",
+   "trust_level": 2
+  },
+  {
+   "id": 19422,
+   "username": "Angellendez1",
+   "avatar_template": "/user_avatar/forum.pretendo.network/angellendez1/{size}/46977_2.png",
+   "trust_level": 0
+  },
+  {
+   "id": 24479,
+   "username": "RedTiger",
+   "avatar_template": "/user_avatar/forum.pretendo.network/redtiger/{size}/62763_2.png",
+   "trust_level": 1
+  },
+  {
+   "id": 1900,
+   "username": "Hiroyi66",
+   "avatar_template": "/user_avatar/forum.pretendo.network/hiroyi66/{size}/2007_2.png",
+   "trust_level": 1
+  },
+  {
+   "id": 18409,
+   "username": "Dereck2000",
+   "avatar_template": "/user_avatar/forum.pretendo.network/dereck2000/{size}/62579_2.png",
+   "trust_level": 1
+  },
+  {
+   "id": 24474,
+   "username": "Kaii_iiaK",
+   "avatar_template": "/user_avatar/forum.pretendo.network/kaii_iiak/{size}/62809_2.png",
+   "trust_level": 0
+  },
+  {
+   "id": 24483,
+   "username": "kjutkamber",
+   "avatar_template": "/user_avatar/forum.pretendo.network/kjutkamber/{size}/61451_2.png",
+   "trust_level": 0
+  },
+  {
+   "id": 23942,
+   "username": "bhoper",
+   "avatar_template": "/user_avatar/forum.pretendo.network/bhoper/{size}/61846_2.png",
+   "trust_level": 0
+  },
+  {
+   "id": 4378,
+   "username": "thesanikfan",
+   "avatar_template": "/user_avatar/forum.pretendo.network/thesanikfan/{size}/62660_2.png",
+   "trust_level": 0
+  }
+ ],
+ "primary_groups": [
+  {
+   "id": 51,
+   "name": "head-moderators"
+  },
+  {
+   "id": 42,
+   "name": "category-moderators"
+  },
+  {
+   "id": 49,
+   "name": "network-moderators"
+  },
+  {
+   "id": 50,
+   "name": "support-helper"
+  }
+ ],
+ "flair_groups": [
+  {
+   "id": 51,
+   "name": "head-moderators",
+   "flair_url": "/uploads/default/original/3X/1/2/12d50c55931ff6602491df16082df7640d8a6717.webp",
+   "flair_bg_color": "",
+   "flair_color": ""
+  },
+  {
+   "id": 2,
+   "name": "moderators",
+   "flair_url": "/uploads/default/original/3X/1/2/127fe2f0458f600629bf38e53a8447bc9190fca0.webp",
+   "flair_bg_color": "",
+   "flair_color": "00A000"
+  },
+  {
+   "id": 1,
+   "name": "admins",
+   "flair_url": "/uploads/default/original/3X/5/a/5a4d111dd1091c4a4b11b073d038a7a827829a3e.webp",
+   "flair_bg_color": "",
+   "flair_color": "D00000"
+  },
+  {
+   "id": 49,
+   "name": "network-moderators",
+   "flair_url": "/uploads/default/original/3X/4/f/4fcc7d666ef7a776d706a7dc8d8e44e6248c8cf5.webp",
+   "flair_bg_color": "",
+   "flair_color": ""
+  },
+  {
+   "id": 50,
+   "name": "support-helper",
+   "flair_url": "/uploads/default/original/3X/9/d/9d9d81fd613e497efe0078a8d449e9189f3b4ade.webp",
+   "flair_bg_color": "",
+   "flair_color": ""
+  },
+  {
+   "id": 42,
+   "name": "category-moderators",
+   "flair_url": "/uploads/default/original/3X/1/2/127fe2f0458f600629bf38e53a8447bc9190fca0.webp",
+   "flair_bg_color": "",
+   "flair_color": ""
+  }
+ ],
+ "topic_list": {
+  "can_create_topic": false,
+  "more_topics_url": "/latest?no_definitions=true&page=1",
+  "per_page": 30,
+  "top_tags": [
+   {
+    "id": 9,
+    "name": "juxtaposition",
+    "slug": "juxtaposition"
+   },
+   {
+    "id": 56,
+    "name": "3ds",
+    "slug": "3ds"
+   },
+   {
+    "id": 50,
+    "name": "wiiu",
+    "slug": "wiiu"
+   },
+   {
+    "id": 14,
+    "name": "splatoon",
+    "slug": "splatoon"
+   },
+   {
+    "id": 8,
+    "name": "inkay",
+    "slug": "inkay"
+   },
+   {
+    "id": 7,
+    "name": "sssl",
+    "slug": "sssl"
+   },
+   {
+    "id": 39,
+    "name": "outage",
+    "slug": "outage"
+   },
+   {
+    "id": 26,
+    "name": "pokemon",
+    "slug": "pokemon"
+   },
+   {
+    "id": 22,
+    "name": "acnl",
+    "slug": "acnl"
+   },
+   {
+    "id": 24,
+    "name": "mk8",
+    "slug": "mk8"
+   },
+   {
+    "id": 27,
+    "name": "minecraft",
+    "slug": "minecraft"
+   },
+   {
+    "id": 23,
+    "name": "fcexchange",
+    "slug": "fcexchange"
+   },
+   {
+    "id": 34,
+    "name": "mh4u",
+    "slug": "mh4u"
+   },
+   {
+    "id": 13,
+    "name": "mk7",
+    "slug": "mk7"
+   },
+   {
+    "id": 12,
+    "name": "smmwiiu",
+    "slug": "smmwiiu"
+   },
+   {
+    "id": 11,
+    "name": "smm3ds",
+    "slug": "smm3ds"
+   },
+   {
+    "id": 21,
+    "name": "streetpass",
+    "slug": "streetpass"
+   },
+   {
+    "id": 36,
+    "name": "website",
+    "slug": "website"
+   },
+   {
+    "id": 60,
+    "name": "friends-service",
+    "slug": "friends-service"
+   },
+   {
+    "id": 44,
+    "name": "maintenance",
+    "slug": "maintenance"
+   },
+   {
+    "id": 32,
+    "name": "tomodachilife",
+    "slug": "tomodachilife"
+   },
+   {
+    "id": 77,
+    "name": "account",
+    "slug": "account"
+   },
+   {
+    "id": 33,
+    "name": "aroma",
+    "slug": "aroma"
+   },
+   {
+    "id": 18,
+    "name": "badges",
+    "slug": "badges"
+   },
+   {
+    "id": 61,
+    "name": "account-settings",
+    "slug": "account-settings"
+   },
+   {
+    "id": 30,
+    "name": "archiverse",
+    "slug": "archiverse"
+   },
+   {
+    "id": 31,
+    "name": "eshop",
+    "slug": "eshop"
+   },
+   {
+    "id": 19,
+    "name": "guide",
+    "slug": "guide"
+   },
+   {
+    "id": 42,
+    "name": "wiiuchat",
+    "slug": "wiiuchat"
+   },
+   {
+    "id": 69,
+    "name": "azahar",
+    "slug": "azahar"
+   },
+   {
+    "id": 58,
+    "name": "discord",
+    "slug": "discord"
+   }
+  ],
+  "topics": [
+   {
+    "fancy_title": "Gathering Hall Instability - Monster Hunter 4 Generations / Monster Hunter 4 Ultimate",
+    "id": 29521,
+    "title": "Gathering Hall Instability - Monster Hunter 4 Generations / Monster Hunter 4 Ultimate",
+    "slug": "gathering-hall-instability-monster-hunter-4-generations-monster-hunter-4-ultimate",
+    "posts_count": 3,
+    "reply_count": 1,
+    "highest_post_number": 6,
+    "image_url": null,
+    "created_at": "2026-07-30T01:00:16.813Z",
+    "last_posted_at": "2026-09-03T22:09:57.584Z",
+    "bumped": true,
+    "bumped_at": "2026-09-03T22:09:57.584Z",
+    "archetype": "regular",
+    "unseen": false,
+    "pinned": true,
+    "unpinned": null,
+    "excerpt": "We are aware of an issue in Monster Hunter 4G and Monster Hunter 4 Ultimate.\nCurrently, there are various anomalies with regards to the Gathering Hall feature of the game. Players may experience connection issues when at&hellip;",
+    "visible": true,
+    "closed": false,
+    "archived": false,
+    "bookmarked": null,
+    "liked": null,
+    "tags": [
+     {
+      "id": 39,
+      "name": "outage",
+      "slug": "outage"
+     },
+     {
+      "id": 34,
+      "name": "mh4u",
+      "slug": "mh4u"
+     },
+     {
+      "id": 87,
+      "name": "mh4g",
+      "slug": "mh4g"
+     },
+     {
+      "id": 4,
+      "name": "current-issue",
+      "slug": "current-issue"
+     }
+    ],
+    "tags_descriptions": {
+     "outage": "A list of outages, both past and present, on Pretendo Network."
+    },
+    "views": 838,
+    "like_count": 5,
+    "has_summary": false,
+    "last_poster_username": "Shock_Tart",
+    "category_id": 14,
+    "op_like_count": 4,
+    "pinned_globally": true,
+    "featured_link": null,
+    "has_accepted_answer": false,
+    "can_vote": false,
+    "posters": [
+     {
+      "extras": null,
+      "description": "Original Poster",
+      "user_id": 655,
+      "primary_group_id": 51,
+      "flair_group_id": 51
+     },
+     {
+      "extras": null,
+      "description": "Frequent Poster",
+      "user_id": 10,
+      "primary_group_id": 42,
+      "flair_group_id": 2
+     },
+     {
+      "extras": null,
+      "description": "Recent Poster",
+      "user_id": 24064,
+      "primary_group_id": null,
+      "flair_group_id": null
+     },
+     {
+      "extras": "latest",
+      "description": "Most Recent Poster",
+      "user_id": 5617,
+      "primary_group_id": null,
+      "flair_group_id": null
+     }
+    ]
+   },
+   {
+    "fancy_title": "Frequently asked questions regarding Pretendo Network and Pretendo forums",
+    "id": 4339,
+    "title": "Frequently asked questions regarding Pretendo Network and Pretendo forums",
+    "slug": "frequently-asked-questions-regarding-pretendo-network-and-pretendo-forums",
+    "posts_count": 63,
+    "reply_count": 46,
+    "highest_post_number": 84,
+    "image_url": "https://forum.pretendo.network/uploads/default/original/2X/a/aec0a2bbc898c40d61a76f04e38eb5b56a675751.png",
+    "created_at": "2024-08-13T15:54:35.227Z",
+    "last_posted_at": "2026-07-19T00:51:51.020Z",
+    "bumped": true,
+    "bumped_at": "2026-09-03T15:10:11.152Z",
+    "archetype": "regular",
+    "unseen": false,
+    "pinned": true,
+    "unpinned": null,
+    "excerpt": "Welcome to the Pretendo Network forums :waving_hand: \nThis thread aims to tackle frequently asked questions so you can get issues solved faster than it may take otherwise. \nIf you have any questions of your own, we &hellip;",
+    "visible": true,
+    "closed": false,
+    "archived": false,
+    "bookmarked": null,
+    "liked": null,
+    "tags": [
+     {
+      "id": 16,
+      "name": "faq",
+      "slug": "faq"
+     }
+    ],
+    "tags_descriptions": {},
+    "views": 23953,
+    "like_count": 68,
+    "has_summary": true,
+    "last_poster_username": "Lynoxx",
+    "category_id": 4,
+    "op_like_count": 21,
+    "pinned_globally": true,
+    "featured_link": null,
+    "has_accepted_answer": false,
+    "can_vote": false,
+    "posters": [
+     {
+      "extras": null,
+      "description": "Original Poster",
+      "user_id": 10,
+      "primary_group_id": 42,
+      "flair_group_id": 2
+     },
+     {
+      "extras": null,
+      "description": "Frequent Poster",
+      "user_id": 10105,
+      "primary_group_id": null,
+      "flair_group_id": null
+     },
+     {
+      "extras": null,
+      "description": "Frequent Poster",
+      "user_id": 12717,
+      "primary_group_id": null,
+      "flair_group_id": null
+     },
+     {
+      "extras": null,
+      "description": "Recent Poster",
+      "user_id": 3066,
+      "primary_group_id": null,
+      "flair_group_id": 1
+     },
+     {
+      "extras": "latest",
+      "description": "Most Recent Poster",
+      "user_id": 22567,
+      "primary_group_id": null,
+      "flair_group_id": null
+     }
+    ]
+   },
+   {
+    "fancy_title": "Welcome to Pretendo Network! :wave:",
+    "id": 5,
+    "title": "Welcome to Pretendo Network! :wave:",
+    "slug": "welcome-to-pretendo-network",
+    "posts_count": 363,
+    "reply_count": 277,
+    "highest_post_number": 413,
+    "image_url": null,
+    "created_at": "2024-05-08T17:55:22.012Z",
+    "last_posted_at": "2026-09-09T17:24:53.381Z",
+    "bumped": true,
+    "bumped_at": "2026-09-09T17:24:53.381Z",
+    "archetype": "regular",
+    "unseen": false,
+    "pinned": true,
+    "unpinned": null,
+    "excerpt": "We are so glad you joined us. \n\nPretendo Network\nCommunity forum for the Pretendo Network service \n\nHere are some things you can do to get started: \n:speaking_head: Introduce yourself by adding information about yourself&hellip;",
+    "visible": true,
+    "closed": false,
+    "archived": false,
+    "bookmarked": null,
+    "liked": null,
+    "unicode_title": "Welcome to Pretendo Network! 👋",
+    "tags": [],
+    "tags_descriptions": {},
+    "views": 15161,
+    "like_count": 846,
+    "has_summary": true,
+    "last_poster_username": "Ruibono",
+    "category_id": 4,
+    "op_like_count": 104,
+    "pinned_globally": true,
+    "featured_link": null,
+    "has_accepted_answer": false,
+    "can_vote": false,
+    "posters": [
+     {
+      "extras": null,
+      "description": "Original Poster",
+      "user_id": -1,
+      "primary_group_id": null,
+      "flair_group_id": 1
+     },
+     {
+      "extras": null,
+      "description": "Frequent Poster",
+      "user_id": 10,
+      "primary_group_id": 42,
+      "flair_group_id": 2
+     },
+     {
+      "extras": null,
+      "description": "Frequent Poster",
+      "user_id": 3066,
+      "primary_group_id": null,
+      "flair_group_id": 1
+     },
+     {
+      "extras": null,
+      "description": "Recent Poster",
+      "user_id": 13224,
+      "primary_group_id": null,
+      "flair_group_id": null
+     },
+     {
+      "extras": "latest",
+      "description": "Most Recent Poster",
+      "user_id": 13795,
+      "primary_group_id": null,
+      "flair_group_id": null
+     }
+    ]
+   },
+   {
+    "fancy_title": "Panchito1505&rsquo;s Octoling-And-Inkling alliance",
+    "id": 30396,
+    "title": "Panchito1505's Octoling-And-Inkling alliance",
+    "slug": "panchito1505s-octoling-and-inkling-alliance",
+    "posts_count": 15,
+    "reply_count": 10,
+    "highest_post_number": 15,
+    "image_url": "https://forum.pretendo.network/uploads/default/optimized/3X/e/7/e72bb9bfa2b5e9b7c9c7623e3466a2cc76d54fa6_2_1024x576.jpeg",
+    "created_at": "2026-09-08T22:00:48.382Z",
+    "last_posted_at": "2026-09-11T00:17:55.348Z",
+    "bumped": true,
+    "bumped_at": "2026-09-11T00:17:55.348Z",
+    "archetype": "regular",
+    "unseen": false,
+    "pinned": false,
+    "unpinned": null,
+    "visible": true,
+    "closed": false,
+    "archived": false,
+    "bookmarked": null,
+    "liked": null,
+    "tags": [
+     {
+      "id": 14,
+      "name": "splatoon",
+      "slug": "splatoon"
+     },
+     {
+      "id": 103,
+      "name": "alliance",
+      "slug": "alliance"
+     }
+    ],
+    "tags_descriptions": {},
+    "views": 68,
+    "like_count": 18,
+    "has_summary": false,
+    "last_poster_username": "StarDaCat24",
+    "category_id": 4,
+    "op_like_count": 2,
+    "pinned_globally": false,
+    "featured_link": null,
+    "has_accepted_answer": false,
+    "can_vote": false,
+    "posters": [
+     {
+      "extras": null,
+      "description": "Original Poster",
+      "user_id": 10510,
+      "primary_group_id": null,
+      "flair_group_id": null
+     },
+     {
+      "extras": null,
+      "description": "Frequent Poster",
+      "user_id": 13509,
+      "primary_group_id": null,
+      "flair_group_id": null
+     },
+     {
+      "extras": null,
+      "description": "Frequent Poster",
+      "user_id": 12717,
+      "primary_group_id": null,
+      "flair_group_id": null
+     },
+     {
+      "extras": null,
+      "description": "Recent Poster",
+      "user_id": 18085,
+      "primary_group_id": null,
+      "flair_group_id": null
+     },
+     {
+      "extras": "latest",
+      "description": "Most Recent Poster",
+      "user_id": 21329,
+      "primary_group_id": null,
+      "flair_group_id": null
+     }
+    ]
+   },
+   {
+    "fancy_title": "3DS Friend Code Exchange / looking for people to add",
+    "id": 143,
+    "title": "3DS Friend Code Exchange / looking for people to add",
+    "slug": "3ds-friend-code-exchange-looking-for-people-to-add",
+    "posts_count": 20,
+    "reply_count": 2393,
+    "highest_post_number": 4273,
+    "image_url": null,
+    "created_at": "2024-05-09T17:12:41.100Z",
+    "last_posted_at": "2026-09-10T23:53:31.577Z",
+    "bumped": true,
+    "bumped_at": "2026-09-10T23:53:31.577Z",
+    "archetype": "regular",
+    "unseen": false,
+    "pinned": false,
+    "unpinned": null,
+    "visible": true,
+    "closed": false,
+    "archived": false,
+    "bookmarked": null,
+    "liked": null,
+    "tags": [
+     {
+      "id": 23,
+      "name": "fcexchange",
+      "slug": "fcexchange"
+     }
+    ],
+    "tags_descriptions": {},
+    "views": 29649,
+    "like_count": 117,
+    "has_summary": false,
+    "last_poster_username": "DrPepperPro",
+    "category_id": 4,
+    "op_like_count": 79,
+    "pinned_globally": false,
+    "featured_link": null,
+    "has_accepted_answer": false,
+    "can_vote": false,
+    "posters": [
+     {
+      "extras": null,
+      "description": "Original Poster",
+      "user_id": 96,
+      "primary_group_id": null,
+      "flair_group_id": null
+     },
+     {
+      "extras": null,
+      "description": "Frequent Poster",
+      "user_id": 24243,
+      "primary_group_id": null,
+      "flair_group_id": null
+     },
+     {
+      "extras": null,
+      "description": "Frequent Poster",
+      "user_id": 23588,
+      "primary_group_id": null,
+      "flair_group_id": null
+     },
+     {
+      "extras": null,
+      "description": "Recent Poster",
+      "user_id": 24443,
+      "primary_group_id": null,
+      "flair_group_id": null
+     },
+     {
+      "extras": "latest",
+      "description": "Most Recent Poster",
+      "user_id": 12717,
+      "primary_group_id": null,
+      "flair_group_id": null
+     }
+    ]
+   },
+   {
+    "fancy_title": "Help for a cosmetic mod",
+    "id": 30251,
+    "title": "Help for a cosmetic mod",
+    "slug": "help-for-a-cosmetic-mod",
+    "posts_count": 13,
+    "reply_count": 8,
+    "highest_post_number": 13,
+    "image_url": null,
+    "created_at": "2026-09-01T12:45:25.174Z",
+    "last_posted_at": "2026-09-03T21:03:25.225Z",
+    "bumped": true,
+    "bumped_at": "2026-09-10T21:07:01.783Z",
+    "archetype": "regular",
+    "unseen": false,
+    "pinned": false,
+    "unpinned": null,
+    "visible": true,
+    "closed": false,
+    "archived": false,
+    "bookmarked": null,
+    "liked": null,
+    "tags": [
+     {
+      "id": 68,
+      "name": "cemu",
+      "slug": "cemu"
+     }
+    ],
+    "tags_descriptions": {},
+    "views": 81,
+    "like_count": 5,
+    "has_summary": false,
+    "last_poster_username": "Joshua8600PNID",
+    "category_id": 15,
+    "op_like_count": 0,
+    "pinned_globally": false,
+    "featured_link": null,
+    "has_accepted_answer": false,
+    "can_vote": false,
+    "posters": [
+     {
+      "extras": null,
+      "description": "Original Poster",
+      "user_id": 24323,
+      "primary_group_id": null,
+      "flair_group_id": null
+     },
+     {
+      "extras": null,
+      "description": "Frequent Poster",
+      "user_id": 2180,
+      "primary_group_id": null,
+      "flair_group_id": null
+     },
+     {
+      "extras": null,
+      "description": "Frequent Poster",
+      "user_id": 12717,
+      "primary_group_id": null,
+      "flair_group_id": null
+     },
+     {
+      "extras": null,
+      "description": "Recent Poster",
+      "user_id": -1,
+      "primary_group_id": null,
+      "flair_group_id": 1
+     },
+     {
+      "extras": "latest",
+      "description": "Most Recent Poster",
+      "user_id": 3066,
+      "primary_group_id": null,
+      "flair_group_id": 1
+     }
+    ]
+   },
+   {
+    "fancy_title": "Smash for wii u (and any online system apps) stuck in loading",
+    "id": 30341,
+    "title": "Smash for wii u (and any online system apps) stuck in loading",
+    "slug": "smash-for-wii-u-and-any-online-system-apps-stuck-in-loading",
+    "posts_count": 2,
+    "reply_count": 0,
+    "highest_post_number": 2,
+    "image_url": null,
+    "created_at": "2026-09-05T14:46:56.730Z",
+    "last_posted_at": "2026-09-10T20:30:10.638Z",
+    "bumped": true,
+    "bumped_at": "2026-09-10T20:30:10.638Z",
+    "archetype": "regular",
+    "unseen": false,
+    "pinned": false,
+    "unpinned": null,
+    "visible": true,
+    "closed": false,
+    "archived": false,
+    "bookmarked": null,
+    "liked": null,
+    "tags": [
+     {
+      "id": 50,
+      "name": "wiiu",
+      "slug": "wiiu"
+     },
+     {
+      "id": 84,
+      "name": "smash-wiiu",
+      "slug": "smash-wiiu"
+     }
+    ],
+    "tags_descriptions": {},
+    "views": 28,
+    "like_count": 0,
+    "has_summary": false,
+    "last_poster_username": "Kailex",
+    "category_id": 15,
+    "op_like_count": 0,
+    "pinned_globally": false,
+    "featured_link": null,
+    "has_accepted_answer": false,
+    "can_vote": false,
+    "posters": [
+     {
+      "extras": "latest single",
+      "description": "Original Poster, Most Recent Poster",
+      "user_id": 24405,
+      "primary_group_id": null,
+      "flair_group_id": null
+     }
+    ]
+   },
+   {
+    "fancy_title": "ニコニコ (niconico)",
+    "id": 30344,
+    "title": "ニコニコ (niconico)",
+    "slug": "niconico",
+    "posts_count": 7,
+    "reply_count": 3,
+    "highest_post_number": 7,
+    "image_url": null,
+    "created_at": "2026-09-05T20:06:58.182Z",
+    "last_posted_at": "2026-09-10T19:42:28.450Z",
+    "bumped": true,
+    "bumped_at": "2026-09-10T19:42:28.450Z",
+    "archetype": "regular",
+    "unseen": false,
+    "pinned": false,
+    "unpinned": null,
+    "visible": true,
+    "closed": false,
+    "archived": false,
+    "bookmarked": null,
+    "liked": null,
+    "tags": [
+     {
+      "id": 56,
+      "name": "3ds",
+      "slug": "3ds"
+     }
+    ],
+    "tags_descriptions": {},
+    "views": 73,
+    "like_count": 6,
+    "has_summary": false,
+    "last_poster_username": "solaceinruin",
+    "category_id": 4,
+    "op_like_count": 0,
+    "pinned_globally": false,
+    "featured_link": null,
+    "has_accepted_answer": false,
+    "can_vote": false,
+    "posters": [
+     {
+      "extras": null,
+      "description": "Original Poster",
+      "user_id": 17353,
+      "primary_group_id": null,
+      "flair_group_id": null
+     },
+     {
+      "extras": null,
+      "description": "Frequent Poster",
+      "user_id": 18315,
+      "primary_group_id": null,
+      "flair_group_id": null
+     },
+     {
+      "extras": null,
+      "description": "Recent Poster",
+      "user_id": 18085,
+      "primary_group_id": null,
+      "flair_group_id": null
+     },
+     {
+      "extras": "latest",
+      "description": "Most Recent Poster",
+      "user_id": 22263,
+      "primary_group_id": null,
+      "flair_group_id": null
+     }
+    ]
+   },
+   {
+    "fancy_title": "Official Juxtaposition Feature Request and Feedback thread!",
+    "id": 29974,
+    "title": "Official Juxtaposition Feature Request and Feedback thread!",
+    "slug": "official-juxtaposition-feature-request-and-feedback-thread",
+    "posts_count": 55,
+    "reply_count": 31,
+    "highest_post_number": 57,
+    "image_url": null,
+    "created_at": "2026-08-20T08:36:20.407Z",
+    "last_posted_at": "2026-09-10T18:51:53.296Z",
+    "bumped": true,
+    "bumped_at": "2026-09-10T18:51:53.296Z",
+    "archetype": "regular",
+    "unseen": false,
+    "pinned": false,
+    "unpinned": null,
+    "visible": true,
+    "closed": false,
+    "archived": false,
+    "bookmarked": null,
+    "liked": null,
+    "visibility_reason_id": 4,
+    "tags": [
+     {
+      "id": 9,
+      "name": "juxtaposition",
+      "slug": "juxtaposition"
+     }
+    ],
+    "tags_descriptions": {},
+    "views": 425,
+    "like_count": 30,
+    "has_summary": true,
+    "last_poster_username": "ImoraPNID",
+    "category_id": 4,
+    "op_like_count": 0,
+    "pinned_globally": false,
+    "featured_link": null,
+    "has_accepted_answer": false,
+    "can_vote": false,
+    "posters": [
+     {
+      "extras": null,
+      "description": "Original Poster",
+      "user_id": 6,
+      "primary_group_id": 51,
+      "flair_group_id": 51
+     },
+     {
+      "extras": null,
+      "description": "Frequent Poster",
+      "user_id": 23804,
+      "primary_group_id": null,
+      "flair_group_id": null
+     },
+     {
+      "extras": null,
+      "description": "Frequent Poster",
+      "user_id": 9949,
+      "primary_group_id": null,
+      "flair_group_id": null
+     },
+     {
+      "extras": null,
+      "description": "Recent Poster",
+      "user_id": 12717,
+      "primary_group_id": null,
+      "flair_group_id": null
+     },
+     {
+      "extras": "latest",
+      "description": "Most Recent Poster",
+      "user_id": 206,
+      "primary_group_id": 49,
+      "flair_group_id": 49
+     }
+    ]
+   },
+   {
+    "fancy_title": "Problème connexion",
+    "id": 30036,
+    "title": "Problème connexion",
+    "slug": "probleme-connexion",
+    "posts_count": 3,
+    "reply_count": 0,
+    "highest_post_number": 4,
+    "image_url": null,
+    "created_at": "2026-08-23T00:03:33.679Z",
+    "last_posted_at": "2026-09-02T13:34:03.080Z",
+    "bumped": true,
+    "bumped_at": "2026-09-10T18:49:34.600Z",
+    "archetype": "regular",
+    "unseen": false,
+    "pinned": false,
+    "unpinned": null,
+    "visible": true,
+    "closed": false,
+    "archived": false,
+    "bookmarked": null,
+    "liked": null,
+    "tags": [],
+    "tags_descriptions": {},
+    "views": 49,
+    "like_count": 0,
+    "has_summary": false,
+    "last_poster_username": "GamersInternatio",
+    "category_id": 13,
+    "op_like_count": 0,
+    "pinned_globally": false,
+    "featured_link": null,
+    "has_accepted_answer": false,
+    "can_vote": false,
+    "posters": [
+     {
+      "extras": null,
+      "description": "Original Poster",
+      "user_id": 24081,
+      "primary_group_id": null,
+      "flair_group_id": null
+     },
+     {
+      "extras": null,
+      "description": "Frequent Poster",
+      "user_id": 3066,
+      "primary_group_id": null,
+      "flair_group_id": 1
+     },
+     {
+      "extras": null,
+      "description": "Recent Poster",
+      "user_id": -1,
+      "primary_group_id": null,
+      "flair_group_id": 1
+     },
+     {
+      "extras": "latest",
+      "description": "Most Recent Poster",
+      "user_id": 10,
+      "primary_group_id": 42,
+      "flair_group_id": 2
+     }
+    ]
+   }
+  ]
+ }
+}

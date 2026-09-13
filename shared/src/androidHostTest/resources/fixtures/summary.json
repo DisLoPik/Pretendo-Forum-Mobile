@@ -1,0 +1,825 @@
+{
+ "topics": [
+  {
+   "fancy_title": "ExpertGem&rsquo;s Octalliance",
+   "id": 24438,
+   "title": "ExpertGem's Octalliance",
+   "slug": "expertgems-octalliance",
+   "posts_count": 33,
+   "category_id": 4,
+   "like_count": 24,
+   "created_at": "2025-10-24T03:35:59.526Z",
+   "has_accepted_answer": false
+  },
+  {
+   "fancy_title": "Friend Service and Partial Account Settings Outage 2025-11-10",
+   "id": 25068,
+   "title": "Friend Service and Partial Account Settings Outage 2025-11-10",
+   "slug": "friend-service-and-partial-account-settings-outage-2025-11-10",
+   "posts_count": 20,
+   "category_id": 6,
+   "like_count": 11,
+   "created_at": "2025-11-10T15:33:52.352Z",
+   "has_accepted_answer": true
+  },
+  {
+   "fancy_title": "BOSS (SpotPass) Maintenance Announcement 2024-11-22",
+   "id": 7916,
+   "title": "BOSS (SpotPass) Maintenance Announcement 2024-11-22",
+   "slug": "boss-spotpass-maintenance-announcement-2024-11-22",
+   "posts_count": 3,
+   "category_id": 6,
+   "like_count": 6,
+   "created_at": "2024-11-22T17:33:00.301Z",
+   "has_accepted_answer": true
+  },
+  {
+   "fancy_title": "Gathering Hall Instability - Monster Hunter 4 Generations / Monster Hunter 4 Ultimate",
+   "id": 29521,
+   "title": "Gathering Hall Instability - Monster Hunter 4 Generations / Monster Hunter 4 Ultimate",
+   "slug": "gathering-hall-instability-monster-hunter-4-generations-monster-hunter-4-ultimate",
+   "posts_count": 3,
+   "category_id": 14,
+   "like_count": 5,
+   "created_at": "2026-07-30T01:00:16.813Z",
+   "has_accepted_answer": false
+  },
+  {
+   "fancy_title": "Splatoon 1 Outage (Support Code: 104-0440)",
+   "id": 8351,
+   "title": "Splatoon 1 Outage (Support Code: 104-0440)",
+   "slug": "splatoon-1-outage-support-code-104-0440",
+   "posts_count": 2,
+   "category_id": 13,
+   "like_count": 5,
+   "created_at": "2024-12-08T01:27:16.106Z",
+   "has_accepted_answer": true
+  },
+  {
+   "fancy_title": "Splatoon Issues 2025-07-05",
+   "id": 18595,
+   "title": "Splatoon Issues 2025-07-05",
+   "slug": "splatoon-issues-2025-07-05",
+   "posts_count": 4,
+   "category_id": 6,
+   "like_count": 4,
+   "created_at": "2025-07-05T12:37:58.765Z",
+   "has_accepted_answer": true
+  },
+  {
+   "fancy_title": "Why can&rsquo;t you NNID be the same as your PNID?",
+   "id": 26659,
+   "title": "Why can't you NNID be the same as your PNID?",
+   "slug": "why-cant-you-nnid-be-the-same-as-your-pnid",
+   "posts_count": 2,
+   "category_id": 4,
+   "like_count": 6,
+   "created_at": "2026-02-22T11:16:05.853Z",
+   "has_accepted_answer": false
+  },
+  {
+   "fancy_title": "Can&rsquo;t connect my PNID after resetting my 3DS",
+   "id": 25204,
+   "title": "Can't connect my PNID after resetting my 3DS",
+   "slug": "cant-connect-my-pnid-after-resetting-my-3ds",
+   "posts_count": 5,
+   "category_id": 14,
+   "like_count": 5,
+   "created_at": "2025-11-22T22:53:10.840Z",
+   "has_accepted_answer": true
+  },
+  {
+   "fancy_title": "Minecraft 8 player beta test",
+   "id": 6176,
+   "title": "Minecraft 8 player beta test",
+   "slug": "minecraft-8-player-beta-test",
+   "posts_count": 8,
+   "category_id": 4,
+   "like_count": 14,
+   "created_at": "2024-10-05T15:51:36.785Z",
+   "has_accepted_answer": false
+  },
+  {
+   "fancy_title": "We Need More Good Rom Hacks For Original Wii U MK8!",
+   "id": 29183,
+   "title": "We Need More Good Rom Hacks For Original Wii U MK8!",
+   "slug": "we-need-more-good-rom-hacks-for-original-wii-u-mk8",
+   "posts_count": 36,
+   "category_id": 4,
+   "like_count": 13,
+   "created_at": "2026-07-14T00:27:52.485Z",
+   "has_accepted_answer": false
+  },
+  {
+   "fancy_title": "In the Story Mode I dont get my shooting Wespen After I defeated the Boss",
+   "id": 27093,
+   "title": "In the Story Mode I dont get my shooting Wespen After I defeated the Boss",
+   "slug": "in-the-story-mode-i-dont-get-my-shooting-wespen-after-i-defeated-the-boss",
+   "posts_count": 3,
+   "category_id": 4,
+   "like_count": 4,
+   "created_at": "2026-03-17T11:09:03.831Z",
+   "has_accepted_answer": false
+  },
+  {
+   "fancy_title": "Forum email notifications are now enabled",
+   "id": 23748,
+   "title": "Forum email notifications are now enabled",
+   "slug": "forum-email-notifications-are-now-enabled",
+   "posts_count": 42,
+   "category_id": 9,
+   "like_count": 37,
+   "created_at": "2025-10-04T17:01:35.206Z",
+   "has_accepted_answer": false
+  },
+  {
+   "fancy_title": "Help Setting Up Octoling Splatoon 1 Mod",
+   "id": 27380,
+   "title": "Help Setting Up Octoling Splatoon 1 Mod",
+   "slug": "help-setting-up-octoling-splatoon-1-mod",
+   "posts_count": 14,
+   "category_id": 4,
+   "like_count": 2,
+   "created_at": "2026-03-31T18:47:24.938Z",
+   "has_accepted_answer": false
+  },
+  {
+   "fancy_title": "Does Anyone Tried Assassin&rsquo;s creed III And IV Multiplayer On Wii U with pretendo",
+   "id": 23027,
+   "title": "Does Anyone Tried Assassin's creed III And IV Multiplayer On Wii U with pretendo",
+   "slug": "does-anyone-tried-assassins-creed-iii-and-iv-multiplayer-on-wii-u-with-pretendo",
+   "posts_count": 5,
+   "category_id": 4,
+   "like_count": 1,
+   "created_at": "2025-09-17T00:27:29.938Z",
+   "has_accepted_answer": false
+  },
+  {
+   "fancy_title": "Can someone help delete my miiverse posts",
+   "id": 8213,
+   "title": "Can someone help delete my miiverse posts",
+   "slug": "can-someone-help-delete-my-miiverse-posts",
+   "posts_count": 14,
+   "category_id": 14,
+   "like_count": 7,
+   "created_at": "2024-12-01T21:35:39.229Z",
+   "has_accepted_answer": true
+  }
+ ],
+ "badges": [
+  {
+   "id": 4,
+   "name": "Leader",
+   "description": "<a href=\"https://blog.discourse.org/2018/06/understanding-discourse-trust-levels/\">Granted</a> global edit, pin, close, archive, split and merge, more likes",
+   "grant_count": 16,
+   "allow_title": true,
+   "multiple_grant": false,
+   "icon": "user",
+   "image_url": null,
+   "listable": true,
+   "enabled": true,
+   "badge_grouping_id": 4,
+   "system": true,
+   "slug": "leader",
+   "manually_grantable": false,
+   "show_in_post_header": false,
+   "badge_type_id": 1
+  },
+  {
+   "id": 36,
+   "name": "Appreciated",
+   "description": "Received 1 like on 20 posts",
+   "grant_count": 122,
+   "allow_title": false,
+   "multiple_grant": false,
+   "icon": "heart",
+   "image_url": null,
+   "listable": true,
+   "enabled": true,
+   "badge_grouping_id": 2,
+   "system": true,
+   "slug": "appreciated",
+   "manually_grantable": false,
+   "show_in_post_header": false,
+   "badge_type_id": 3
+  },
+  {
+   "id": 45,
+   "name": "Enthusiast",
+   "description": "Visited 10 consecutive days",
+   "grant_count": 313,
+   "allow_title": false,
+   "multiple_grant": false,
+   "icon": "far-eye",
+   "image_url": null,
+   "listable": true,
+   "enabled": true,
+   "badge_grouping_id": 2,
+   "system": true,
+   "slug": "enthusiast",
+   "manually_grantable": false,
+   "show_in_post_header": false,
+   "badge_type_id": 3
+  },
+  {
+   "id": 24,
+   "name": "Anniversary",
+   "description": "Active member for a year, posted at least once",
+   "grant_count": 1480,
+   "allow_title": false,
+   "multiple_grant": true,
+   "icon": "cake-candles",
+   "image_url": null,
+   "listable": true,
+   "enabled": true,
+   "badge_grouping_id": 2,
+   "system": true,
+   "slug": "anniversary",
+   "manually_grantable": false,
+   "show_in_post_header": false,
+   "badge_type_id": 2
+  },
+  {
+   "id": 38,
+   "name": "Thank You",
+   "description": "Has 20 liked posts and gave 10 likes",
+   "grant_count": 103,
+   "allow_title": false,
+   "multiple_grant": false,
+   "icon": "heart",
+   "image_url": null,
+   "listable": true,
+   "enabled": true,
+   "badge_grouping_id": 2,
+   "system": true,
+   "slug": "thank-you",
+   "manually_grantable": false,
+   "show_in_post_header": false,
+   "badge_type_id": 3
+  },
+  {
+   "id": 102,
+   "name": "Solved!",
+   "description": "Have a reply marked as a Solution",
+   "grant_count": 103,
+   "allow_title": false,
+   "multiple_grant": false,
+   "icon": "square-check",
+   "image_url": null,
+   "listable": true,
+   "enabled": true,
+   "badge_grouping_id": 2,
+   "system": true,
+   "slug": "solved",
+   "manually_grantable": false,
+   "show_in_post_header": false,
+   "badge_type_id": 3
+  }
+ ],
+ "badge_types": [
+  {
+   "id": 1,
+   "name": "Gold",
+   "sort_order": 9
+  },
+  {
+   "id": 3,
+   "name": "Bronze",
+   "sort_order": 7
+  },
+  {
+   "id": 2,
+   "name": "Silver",
+   "sort_order": 8
+  }
+ ],
+ "users": [
+  {
+   "id": 655,
+   "username": "ExpertGem",
+   "avatar_template": "/user_avatar/forum.pretendo.network/expertgem/{size}/59819_2.png",
+   "primary_group_name": "head-moderators",
+   "flair_name": "head-moderators",
+   "flair_url": "/uploads/default/original/3X/1/2/12d50c55931ff6602491df16082df7640d8a6717.webp",
+   "flair_group_id": 51,
+   "moderator": true,
+   "trust_level": 4
+  },
+  {
+   "id": -1,
+   "username": "system",
+   "avatar_template": "/uploads/default/original/1X/5297dad82461e0bb646fce8b787fc8002d853978.png",
+   "flair_name": "admins",
+   "flair_url": "/uploads/default/original/3X/5/a/5a4d111dd1091c4a4b11b073d038a7a827829a3e.webp",
+   "flair_color": "D00000",
+   "flair_group_id": 1,
+   "admin": true,
+   "moderator": true,
+   "trust_level": 4
+  }
+ ],
+ "user_summary": {
+  "likes_given": 183,
+  "likes_received": 181,
+  "topics_entered": 3467,
+  "posts_read_count": 10962,
+  "days_visited": 634,
+  "topic_count": 13,
+  "post_count": 262,
+  "time_read": 422366,
+  "recent_time_read": 19713,
+  "can_see_summary_stats": true,
+  "can_see_user_actions": true,
+  "solved_count": 27,
+  "topic_ids": [
+   24438,
+   25068,
+   7916,
+   29521,
+   8351,
+   18595
+  ],
+  "replies": [
+   {
+    "post_number": 2,
+    "like_count": 5,
+    "created_at": "2026-02-22T13:53:30.741Z",
+    "topic_id": 26659
+   },
+   {
+    "post_number": 4,
+    "like_count": 4,
+    "created_at": "2025-11-22T23:05:00.169Z",
+    "topic_id": 25204
+   },
+   {
+    "post_number": 3,
+    "like_count": 4,
+    "created_at": "2024-10-05T15:59:14.235Z",
+    "topic_id": 6176
+   },
+   {
+    "post_number": 16,
+    "like_count": 3,
+    "created_at": "2026-07-19T17:48:03.513Z",
+    "topic_id": 29183
+   },
+   {
+    "post_number": 3,
+    "like_count": 3,
+    "created_at": "2026-03-17T13:33:55.523Z",
+    "topic_id": 27093
+   },
+   {
+    "post_number": 16,
+    "like_count": 3,
+    "created_at": "2025-10-04T22:57:43.677Z",
+    "topic_id": 23748
+   }
+  ],
+  "links": [
+   {
+    "url": "https://gamebanana.com/mods/448229",
+    "title": "Rival Unpatch Mod for Splatoon | Splatoon Mods",
+    "clicks": 72,
+    "post_number": 7,
+    "topic_id": 27380
+   },
+   {
+    "url": "https://github.com/PretendoNetwork/monster-hunter-4-ultimate/issues/3",
+    "title": "[Bug]: Various issues while searching for gathering halls · Issue #3 · PretendoNetwork/monster-hunter-4-ultimate · GitHub",
+    "clicks": 69,
+    "post_number": 1,
+    "topic_id": 29521
+   },
+   {
+    "url": "https://gamebanana.com/mods/545173",
+    "title": "Anti-Crash Mod for Splatoon | Splatoon Mods",
+    "clicks": 42,
+    "post_number": 7,
+    "topic_id": 27380
+   },
+   {
+    "url": "https://mirayxs.github.io/SplatHeX/SplatHeX.html",
+    "title": "SplatHeX - A Splatoon Save Editor",
+    "clicks": 27,
+    "post_number": 7,
+    "topic_id": 27380
+   },
+   {
+    "url": "https://games.pretendo.zip",
+    "title": "Pretendo Game Support Status [Unofficial Pretendo Wiki]",
+    "clicks": 25,
+    "post_number": 2,
+    "topic_id": 23027
+   },
+   {
+    "url": "https://juxt.pretendo.network/posts/gHEJjisAYAXdsYUeIoQPo",
+    "title": null,
+    "clicks": 16,
+    "post_number": 12,
+    "topic_id": 8213
+   }
+  ],
+  "most_liked_by_users": [
+   {
+    "id": 3066,
+    "username": "Joshua8600PNID",
+    "count": 21,
+    "avatar_template": "/user_avatar/forum.pretendo.network/joshua8600pnid/{size}/46995_2.png",
+    "admin": true,
+    "moderator": true,
+    "trust_level": 4,
+    "flair_name": "admins",
+    "flair_url": "/uploads/default/original/3X/5/a/5a4d111dd1091c4a4b11b073d038a7a827829a3e.webp",
+    "flair_bg_color": "",
+    "flair_color": "D00000",
+    "primary_group_name": null
+   },
+   {
+    "id": 10,
+    "username": "GamersInternatio",
+    "count": 14,
+    "avatar_template": "/user_avatar/forum.pretendo.network/gamersinternatio/{size}/61851_2.png",
+    "admin": false,
+    "moderator": true,
+    "trust_level": 4,
+    "flair_name": "moderators",
+    "flair_url": "/uploads/default/original/3X/1/2/127fe2f0458f600629bf38e53a8447bc9190fca0.webp",
+    "flair_bg_color": "",
+    "flair_color": "00A000",
+    "primary_group_name": "category-moderators"
+   },
+   {
+    "id": 34,
+    "username": "MatthewL246_PNID",
+    "count": 7,
+    "avatar_template": "/user_avatar/forum.pretendo.network/matthewl246_pnid/{size}/41_2.png",
+    "admin": false,
+    "moderator": false,
+    "trust_level": 3,
+    "flair_name": "admins",
+    "flair_url": "/uploads/default/original/3X/5/a/5a4d111dd1091c4a4b11b073d038a7a827829a3e.webp",
+    "flair_bg_color": "",
+    "flair_color": "D00000",
+    "primary_group_name": null
+   },
+   {
+    "id": 10510,
+    "username": "Panchito1505",
+    "count": 7,
+    "avatar_template": "/user_avatar/forum.pretendo.network/panchito1505/{size}/62005_2.png",
+    "admin": false,
+    "moderator": false,
+    "trust_level": 3,
+    "flair_name": null,
+    "flair_url": null,
+    "flair_bg_color": null,
+    "flair_color": null,
+    "primary_group_name": null
+   },
+   {
+    "id": 11505,
+    "username": "anon23740501",
+    "count": 6,
+    "avatar_template": "/letter_avatar_proxy/v4/letter/a/e99b99/{size}.png",
+    "admin": false,
+    "moderator": false,
+    "trust_level": 1,
+    "flair_name": null,
+    "flair_url": null,
+    "flair_bg_color": null,
+    "flair_color": null,
+    "primary_group_name": null
+   },
+   {
+    "id": 547,
+    "username": "PizzaPizza72",
+    "count": 4,
+    "avatar_template": "/user_avatar/forum.pretendo.network/pizzapizza72/{size}/47077_2.png",
+    "admin": false,
+    "moderator": false,
+    "trust_level": 2,
+    "flair_name": null,
+    "flair_url": null,
+    "flair_bg_color": null,
+    "flair_color": null,
+    "primary_group_name": null
+   }
+  ],
+  "most_liked_users": [
+   {
+    "id": 3066,
+    "username": "Joshua8600PNID",
+    "count": 18,
+    "avatar_template": "/user_avatar/forum.pretendo.network/joshua8600pnid/{size}/46995_2.png",
+    "admin": true,
+    "moderator": true,
+    "trust_level": 4,
+    "flair_name": "admins",
+    "flair_url": "/uploads/default/original/3X/5/a/5a4d111dd1091c4a4b11b073d038a7a827829a3e.webp",
+    "flair_bg_color": "",
+    "flair_color": "D00000",
+    "primary_group_name": null
+   },
+   {
+    "id": 10,
+    "username": "GamersInternatio",
+    "count": 11,
+    "avatar_template": "/user_avatar/forum.pretendo.network/gamersinternatio/{size}/61851_2.png",
+    "admin": false,
+    "moderator": true,
+    "trust_level": 4,
+    "flair_name": "moderators",
+    "flair_url": "/uploads/default/original/3X/1/2/127fe2f0458f600629bf38e53a8447bc9190fca0.webp",
+    "flair_bg_color": "",
+    "flair_color": "00A000",
+    "primary_group_name": "category-moderators"
+   },
+   {
+    "id": 5062,
+    "username": "mistrjvs",
+    "count": 8,
+    "avatar_template": "/user_avatar/forum.pretendo.network/mistrjvs/{size}/61570_2.png",
+    "admin": true,
+    "moderator": true,
+    "trust_level": 4,
+    "flair_name": "developers",
+    "flair_url": "/uploads/default/original/3X/c/7/c7a303a543273ff0e9e0f4936057928c973b95aa.webp",
+    "flair_bg_color": "",
+    "flair_color": "D00000",
+    "primary_group_name": null
+   },
+   {
+    "id": 2,
+    "username": "PN_Jon",
+    "count": 5,
+    "avatar_template": "/user_avatar/forum.pretendo.network/pn_jon/{size}/46999_2.png",
+    "admin": true,
+    "moderator": true,
+    "trust_level": 4,
+    "flair_name": "admins",
+    "flair_url": "/uploads/default/original/3X/5/a/5a4d111dd1091c4a4b11b073d038a7a827829a3e.webp",
+    "flair_bg_color": "",
+    "flair_color": "D00000",
+    "primary_group_name": null
+   },
+   {
+    "id": 612,
+    "username": "darknerjester42",
+    "count": 3,
+    "avatar_template": "/user_avatar/forum.pretendo.network/darknerjester42/{size}/61946_2.png",
+    "admin": false,
+    "moderator": false,
+    "trust_level": 2,
+    "flair_name": null,
+    "flair_url": null,
+    "flair_bg_color": null,
+    "flair_color": null,
+    "primary_group_name": null
+   },
+   {
+    "id": 2180,
+    "username": "vyrval",
+    "count": 3,
+    "avatar_template": "/user_avatar/forum.pretendo.network/vyrval/{size}/47204_2.png",
+    "admin": false,
+    "moderator": false,
+    "trust_level": 2,
+    "flair_name": null,
+    "flair_url": null,
+    "flair_bg_color": null,
+    "flair_color": null,
+    "primary_group_name": null
+   }
+  ],
+  "most_replied_to_users": [
+   {
+    "id": 5866,
+    "username": "pkmii65",
+    "count": 5,
+    "avatar_template": "/user_avatar/forum.pretendo.network/pkmii65/{size}/8936_2.png",
+    "admin": false,
+    "moderator": false,
+    "trust_level": 0,
+    "flair_name": null,
+    "flair_url": null,
+    "flair_bg_color": null,
+    "flair_color": null,
+    "primary_group_name": null
+   },
+   {
+    "id": 12770,
+    "username": "GuiGui38",
+    "count": 5,
+    "avatar_template": "/user_avatar/forum.pretendo.network/guigui38/{size}/39096_2.png",
+    "admin": false,
+    "moderator": false,
+    "trust_level": 1,
+    "flair_name": null,
+    "flair_url": null,
+    "flair_bg_color": null,
+    "flair_color": null,
+    "primary_group_name": null
+   },
+   {
+    "id": 3066,
+    "username": "Joshua8600PNID",
+    "count": 4,
+    "avatar_template": "/user_avatar/forum.pretendo.network/joshua8600pnid/{size}/46995_2.png",
+    "admin": true,
+    "moderator": true,
+    "trust_level": 4,
+    "flair_name": "admins",
+    "flair_url": "/uploads/default/original/3X/5/a/5a4d111dd1091c4a4b11b073d038a7a827829a3e.webp",
+    "flair_bg_color": "",
+    "flair_color": "D00000",
+    "primary_group_name": null
+   },
+   {
+    "id": 13509,
+    "username": "Mayo4567",
+    "count": 4,
+    "avatar_template": "/user_avatar/forum.pretendo.network/mayo4567/{size}/61698_2.png",
+    "admin": false,
+    "moderator": false,
+    "trust_level": 3,
+    "flair_name": null,
+    "flair_url": null,
+    "flair_bg_color": null,
+    "flair_color": null,
+    "primary_group_name": null
+   },
+   {
+    "id": 10,
+    "username": "GamersInternatio",
+    "count": 3,
+    "avatar_template": "/user_avatar/forum.pretendo.network/gamersinternatio/{size}/61851_2.png",
+    "admin": false,
+    "moderator": true,
+    "trust_level": 4,
+    "flair_name": "moderators",
+    "flair_url": "/uploads/default/original/3X/1/2/127fe2f0458f600629bf38e53a8447bc9190fca0.webp",
+    "flair_bg_color": "",
+    "flair_color": "00A000",
+    "primary_group_name": "category-moderators"
+   },
+   {
+    "id": 11505,
+    "username": "anon23740501",
+    "count": 3,
+    "avatar_template": "/letter_avatar_proxy/v4/letter/a/e99b99/{size}.png",
+    "admin": false,
+    "moderator": false,
+    "trust_level": 1,
+    "flair_name": null,
+    "flair_url": null,
+    "flair_bg_color": null,
+    "flair_color": null,
+    "primary_group_name": null
+   }
+  ],
+  "badges": [
+   {
+    "id": 13576,
+    "granted_at": "2025-08-08T00:49:23.318Z",
+    "created_at": "2025-08-08T00:49:23.318Z",
+    "count": 1,
+    "badge_id": 4,
+    "user_id": 655,
+    "granted_by_id": -1
+   },
+   {
+    "id": 9012,
+    "granted_at": "2025-04-07T04:12:49.341Z",
+    "created_at": "2025-04-07T04:12:49.341Z",
+    "count": 1,
+    "badge_id": 36,
+    "user_id": 655,
+    "granted_by_id": -1
+   },
+   {
+    "id": 5945,
+    "granted_at": "2025-01-02T00:00:00.000Z",
+    "created_at": "2025-01-01T21:30:55.520Z",
+    "count": 1,
+    "badge_id": 45,
+    "user_id": 655,
+    "granted_by_id": -1
+   },
+   {
+    "id": 21074,
+    "granted_at": "2026-05-20T01:59:19.493Z",
+    "created_at": "2026-05-20T01:59:19.582Z",
+    "count": 2,
+    "badge_id": 24,
+    "user_id": 655,
+    "granted_by_id": -1
+   },
+   {
+    "id": 9011,
+    "granted_at": "2025-04-07T04:12:49.344Z",
+    "created_at": "2025-04-07T04:12:49.344Z",
+    "count": 1,
+    "badge_id": 38,
+    "user_id": 655,
+    "granted_by_id": -1
+   },
+   {
+    "id": 6482,
+    "granted_at": "2025-01-22T16:13:30.712Z",
+    "created_at": "2025-01-22T22:46:02.997Z",
+    "count": 1,
+    "badge_id": 102,
+    "user_id": 655,
+    "granted_by_id": -1
+   }
+  ],
+  "top_categories": [
+   {
+    "topic_count": 6,
+    "post_count": 69,
+    "id": 6,
+    "name": "Support",
+    "color": "3AB54A",
+    "text_color": "FFFFFF",
+    "style_type": "square",
+    "icon": null,
+    "emoji": null,
+    "slug": "support",
+    "read_restricted": false,
+    "parent_category_id": null
+   },
+   {
+    "topic_count": 2,
+    "post_count": 45,
+    "id": 13,
+    "name": "Wii U Support",
+    "color": "0088CC",
+    "text_color": "FFFFFF",
+    "style_type": "square",
+    "icon": null,
+    "emoji": null,
+    "slug": "wii-u-support",
+    "read_restricted": false,
+    "parent_category_id": 6
+   },
+   {
+    "topic_count": 1,
+    "post_count": 39,
+    "id": 14,
+    "name": "3DS Support",
+    "color": "BF1E2E",
+    "text_color": "FFFFFF",
+    "style_type": "square",
+    "icon": null,
+    "emoji": null,
+    "slug": "3ds-support",
+    "read_restricted": false,
+    "parent_category_id": 6
+   },
+   {
+    "topic_count": 2,
+    "post_count": 36,
+    "id": 4,
+    "name": "General",
+    "color": "25AAE2",
+    "text_color": "FFFFFF",
+    "style_type": "square",
+    "icon": null,
+    "emoji": null,
+    "slug": "general",
+    "read_restricted": false,
+    "parent_category_id": null
+   },
+   {
+    "topic_count": 0,
+    "post_count": 12,
+    "id": 9,
+    "name": "Announcements",
+    "color": "ED207B",
+    "text_color": "FFFFFF",
+    "style_type": "square",
+    "icon": null,
+    "emoji": null,
+    "slug": "announcements",
+    "read_restricted": false,
+    "parent_category_id": null
+   },
+   {
+    "topic_count": 0,
+    "post_count": 4,
+    "id": 15,
+    "name": "Cemu Support",
+    "color": "0088CC",
+    "text_color": "FFFFFF",
+    "style_type": "square",
+    "icon": null,
+    "emoji": null,
+    "slug": "cemu-support",
+    "read_restricted": false,
+    "parent_category_id": 6
+   }
+  ]
+ }
+}

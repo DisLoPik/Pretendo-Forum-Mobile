@@ -1,0 +1,2221 @@
+{
+ "default_archetype": "regular",
+ "post_types": {
+  "regular": 1,
+  "moderator_action": 2,
+  "small_action": 3,
+  "whisper": 4
+ },
+ "trust_levels": {
+  "newuser": 0,
+  "basic": 1,
+  "member": 2,
+  "regular": 3,
+  "leader": 4
+ },
+ "filters": [
+  "latest",
+  "unread",
+  "new",
+  "unseen",
+  "top",
+  "read",
+  "posted",
+  "bookmarks",
+  "hot",
+  "votes"
+ ],
+ "homepage_choices": [
+  "latest",
+  "new",
+  "unseen",
+  "top",
+  "categories",
+  "read",
+  "posted",
+  "bookmarks",
+  "hot",
+  "votes"
+ ],
+ "periods": [
+  "all",
+  "yearly",
+  "quarterly",
+  "monthly",
+  "weekly",
+  "daily"
+ ],
+ "top_menu_items": [
+  "latest",
+  "unread",
+  "new",
+  "unseen",
+  "top",
+  "read",
+  "posted",
+  "bookmarks",
+  "hot",
+  "categories",
+  "votes"
+ ],
+ "anonymous_top_menu_items": [
+  "latest",
+  "top",
+  "categories",
+  "hot",
+  "categories",
+  "top",
+  "votes"
+ ],
+ "uncategorized_category_id": 1,
+ "user_field_max_length": 2048,
+ "can_create_tag": false,
+ "can_tag_topics": false,
+ "can_tag_pms": false,
+ "tags_filter_regexp": "[/\\?#\\[\\]@!\\$&'\\(\\)\\*\\+,;=%\\\\`^\\s|\\{\\}\"<>]+",
+ "top_tags": [
+  {
+   "id": 9,
+   "name": "juxtaposition",
+   "slug": "juxtaposition"
+  },
+  {
+   "id": 56,
+   "name": "3ds",
+   "slug": "3ds"
+  },
+  {
+   "id": 50,
+   "name": "wiiu",
+   "slug": "wiiu"
+  },
+  {
+   "id": 14,
+   "name": "splatoon",
+   "slug": "splatoon"
+  },
+  {
+   "id": 8,
+   "name": "inkay",
+   "slug": "inkay"
+  },
+  {
+   "id": 7,
+   "name": "sssl",
+   "slug": "sssl"
+  },
+  {
+   "id": 39,
+   "name": "outage",
+   "slug": "outage"
+  },
+  {
+   "id": 26,
+   "name": "pokemon",
+   "slug": "pokemon"
+  },
+  {
+   "id": 22,
+   "name": "acnl",
+   "slug": "acnl"
+  },
+  {
+   "id": 24,
+   "name": "mk8",
+   "slug": "mk8"
+  },
+  {
+   "id": 27,
+   "name": "minecraft",
+   "slug": "minecraft"
+  },
+  {
+   "id": 23,
+   "name": "fcexchange",
+   "slug": "fcexchange"
+  },
+  {
+   "id": 34,
+   "name": "mh4u",
+   "slug": "mh4u"
+  },
+  {
+   "id": 13,
+   "name": "mk7",
+   "slug": "mk7"
+  },
+  {
+   "id": 12,
+   "name": "smmwiiu",
+   "slug": "smmwiiu"
+  },
+  {
+   "id": 11,
+   "name": "smm3ds",
+   "slug": "smm3ds"
+  },
+  {
+   "id": 21,
+   "name": "streetpass",
+   "slug": "streetpass"
+  },
+  {
+   "id": 36,
+   "name": "website",
+   "slug": "website"
+  },
+  {
+   "id": 60,
+   "name": "friends-service",
+   "slug": "friends-service"
+  },
+  {
+   "id": 44,
+   "name": "maintenance",
+   "slug": "maintenance"
+  },
+  {
+   "id": 32,
+   "name": "tomodachilife",
+   "slug": "tomodachilife"
+  },
+  {
+   "id": 77,
+   "name": "account",
+   "slug": "account"
+  },
+  {
+   "id": 33,
+   "name": "aroma",
+   "slug": "aroma"
+  },
+  {
+   "id": 18,
+   "name": "badges",
+   "slug": "badges"
+  },
+  {
+   "id": 61,
+   "name": "account-settings",
+   "slug": "account-settings"
+  },
+  {
+   "id": 30,
+   "name": "archiverse",
+   "slug": "archiverse"
+  },
+  {
+   "id": 31,
+   "name": "eshop",
+   "slug": "eshop"
+  },
+  {
+   "id": 19,
+   "name": "guide",
+   "slug": "guide"
+  },
+  {
+   "id": 42,
+   "name": "wiiuchat",
+   "slug": "wiiuchat"
+  },
+  {
+   "id": 69,
+   "name": "azahar",
+   "slug": "azahar"
+  },
+  {
+   "id": 58,
+   "name": "discord",
+   "slug": "discord"
+  }
+ ],
+ "navigation_menu_site_top_tags": [
+  {
+   "id": 9,
+   "name": "juxtaposition",
+   "slug": "juxtaposition",
+   "description": null,
+   "pm_only": false
+  },
+  {
+   "id": 56,
+   "name": "3ds",
+   "slug": "3ds",
+   "description": null,
+   "pm_only": false
+  },
+  {
+   "id": 50,
+   "name": "wiiu",
+   "slug": "wiiu",
+   "description": null,
+   "pm_only": false
+  },
+  {
+   "id": 14,
+   "name": "splatoon",
+   "slug": "splatoon",
+   "description": null,
+   "pm_only": false
+  },
+  {
+   "id": 8,
+   "name": "inkay",
+   "slug": "inkay",
+   "description": null,
+   "pm_only": false
+  }
+ ],
+ "topic_featured_link_allowed_category_ids": [
+  4,
+  18,
+  9,
+  10,
+  11,
+  3,
+  17,
+  16,
+  1,
+  20,
+  15,
+  12,
+  5,
+  13,
+  14,
+  6
+ ],
+ "censored_regexp": [],
+ "watched_words_replace": {
+  "(\\bwiimart\\b)": {
+   "word": "\\bwiimart\\b",
+   "replacement": "<a href=\"/faq#p-4-rule-5-no-piracy-5\">[Removed for references to rule 5]</a>",
+   "case_sensitive": false,
+   "html": true
+  },
+  "(\\bwii shoplifting channel\\b)": {
+   "word": "\\bwii shoplifting channel\\b",
+   "replacement": "<a href=\"/faq#p-4-rule-5-no-piracy-5\">[Removed for references to rule 5]</a>",
+   "case_sensitive": false,
+   "html": true
+  }
+ },
+ "categories": [
+  {
+   "id": 9,
+   "name": "Announcements",
+   "color": "ED207B",
+   "text_color": "FFFFFF",
+   "style_type": "square",
+   "icon": null,
+   "emoji": null,
+   "slug": "announcements",
+   "topic_count": 62,
+   "post_count": 1191,
+   "position": 0,
+   "description": "Mirrors announcements on other platforms, and announces Forum-specific changes/updates.",
+   "description_text": "Mirrors announcements on other platforms, and announces Forum-specific changes/updates.",
+   "description_excerpt": "Mirrors announcements on other platforms, and announces Forum-specific changes/updates.",
+   "topic_url": "/t/about-the-announcements-category/625",
+   "read_restricted": false,
+   "permission": null,
+   "notification_level": 1,
+   "topic_template": null,
+   "topic_title_placeholder": null,
+   "has_children": true,
+   "subcategory_count": null,
+   "sort_order": null,
+   "sort_ascending": null,
+   "show_subcategory_list": false,
+   "num_featured_topics": 3,
+   "default_view": null,
+   "subcategory_list_style": "rows_with_featured_topics",
+   "default_top_period": "all",
+   "default_list_filter": "all",
+   "minimum_required_tags": 0,
+   "navigate_to_first_post_after_read": false,
+   "custom_fields": {
+    "has_chat_enabled": null,
+    "enable_unassigned_filter": null,
+    "additional_assign_allowed_on_groups": null,
+    "sort_topics_by_event_start_date": null,
+    "disable_topic_resorting": null,
+    "create_as_post_voting_default": null,
+    "only_post_voting_in_this_category": null,
+    "enable_accepted_answers": null,
+    "notify_on_staff_accept_solved": null,
+    "empty_box_on_unsolved": null,
+    "enable_shared_issues": null,
+    "enable_topic_voting": null
+   },
+   "allow_global_tags": false,
+   "read_only_banner": null,
+   "form_template_ids": [],
+   "required_tag_groups": [],
+   "category_types": {
+    "discussion": {
+     "id": "discussion",
+     "name": "Discussion",
+     "title": "discussion",
+     "description": "A standard category with all the essentials for conversation.",
+     "icon": "memo",
+     "available": true,
+     "visible": true,
+     "configuration_schema": {}
+    }
+   },
+   "uploaded_logo": null,
+   "uploaded_logo_dark": null,
+   "uploaded_background": null,
+   "uploaded_background_dark": null,
+   "can_edit": false
+  },
+  {
+   "id": 16,
+   "name": "Notices",
+   "color": "B3B5B4",
+   "text_color": "FFFFFF",
+   "style_type": "square",
+   "icon": null,
+   "emoji": null,
+   "slug": "notices",
+   "topic_count": 2,
+   "post_count": 3,
+   "position": 1,
+   "description": "This category contains official notices from Pretendo staff.",
+   "description_text": "This category contains official notices from Pretendo staff.",
+   "description_excerpt": "This category contains official notices from Pretendo staff.",
+   "topic_url": "/t/about-the-notices-category/8611",
+   "read_restricted": false,
+   "permission": null,
+   "parent_category_id": 9,
+   "notification_level": 1,
+   "topic_template": null,
+   "topic_title_placeholder": null,
+   "has_children": false,
+   "subcategory_count": null,
+   "sort_order": null,
+   "sort_ascending": null,
+   "show_subcategory_list": false,
+   "num_featured_topics": 3,
+   "default_view": null,
+   "subcategory_list_style": "rows_with_featured_topics",
+   "default_top_period": "all",
+   "default_list_filter": "all",
+   "minimum_required_tags": 0,
+   "navigate_to_first_post_after_read": false,
+   "custom_fields": {
+    "has_chat_enabled": null,
+    "enable_unassigned_filter": null,
+    "additional_assign_allowed_on_groups": null,
+    "sort_topics_by_event_start_date": null,
+    "disable_topic_resorting": null,
+    "create_as_post_voting_default": null,
+    "only_post_voting_in_this_category": null,
+    "enable_accepted_answers": null,
+    "notify_on_staff_accept_solved": null,
+    "empty_box_on_unsolved": null,
+    "enable_shared_issues": null,
+    "enable_topic_voting": null
+   },
+   "allow_global_tags": false,
+   "read_only_banner": null,
+   "form_template_ids": [],
+   "required_tag_groups": [],
+   "category_types": {
+    "discussion": {
+     "id": "discussion",
+     "name": "Discussion",
+     "title": "discussion",
+     "description": "A standard category with all the essentials for conversation.",
+     "icon": "memo",
+     "available": true,
+     "visible": true,
+     "configuration_schema": {}
+    }
+   },
+   "uploaded_logo": null,
+   "uploaded_logo_dark": null,
+   "uploaded_background": null,
+   "uploaded_background_dark": null,
+   "can_edit": false
+  },
+  {
+   "id": 17,
+   "name": "Tickets",
+   "color": "12A89D",
+   "text_color": "FFFFFF",
+   "style_type": "square",
+   "icon": null,
+   "emoji": null,
+   "slug": "tickets",
+   "topic_count": 1,
+   "post_count": 1,
+   "position": 2,
+   "description": "To report a hacker, follow these steps:",
+   "description_text": "To report a hacker, follow these steps:",
+   "description_excerpt": "To report a hacker, follow these steps:",
+   "topic_url": "/t/how-to-submit-hacker-reports/13198",
+   "read_restricted": false,
+   "permission": null,
+   "notification_level": 1,
+   "topic_template": null,
+   "topic_title_placeholder": null,
+   "has_children": false,
+   "subcategory_count": null,
+   "sort_order": null,
+   "sort_ascending": null,
+   "show_subcategory_list": false,
+   "num_featured_topics": 3,
+   "default_view": null,
+   "subcategory_list_style": "rows_with_featured_topics",
+   "default_top_period": "all",
+   "default_list_filter": "all",
+   "minimum_required_tags": 0,
+   "navigate_to_first_post_after_read": false,
+   "custom_fields": {
+    "has_chat_enabled": null,
+    "enable_unassigned_filter": null,
+    "additional_assign_allowed_on_groups": null,
+    "sort_topics_by_event_start_date": null,
+    "disable_topic_resorting": null,
+    "create_as_post_voting_default": null,
+    "only_post_voting_in_this_category": null,
+    "enable_accepted_answers": null,
+    "notify_on_staff_accept_solved": null,
+    "empty_box_on_unsolved": null,
+    "enable_shared_issues": null,
+    "enable_topic_voting": null
+   },
+   "allow_global_tags": false,
+   "read_only_banner": null,
+   "form_template_ids": [],
+   "required_tag_groups": [],
+   "category_types": {
+    "discussion": {
+     "id": "discussion",
+     "name": "Discussion",
+     "title": "discussion",
+     "description": "A standard category with all the essentials for conversation.",
+     "icon": "memo",
+     "available": true,
+     "visible": true,
+     "configuration_schema": {}
+    }
+   },
+   "uploaded_logo": null,
+   "uploaded_logo_dark": null,
+   "uploaded_background": null,
+   "uploaded_background_dark": null,
+   "can_edit": false
+  },
+  {
+   "id": 4,
+   "name": "General",
+   "color": "25AAE2",
+   "text_color": "FFFFFF",
+   "style_type": "square",
+   "icon": null,
+   "emoji": null,
+   "slug": "general",
+   "topic_count": 1317,
+   "post_count": 13420,
+   "position": 3,
+   "description": "<p>Create topics here that don’t fit into any other existing category.</p>",
+   "description_text": "Create topics here that don’t fit into any other existing category.",
+   "description_excerpt": "Create topics here that don’t fit into any other existing category.",
+   "topic_url": "/t/about-the-general-category/3",
+   "read_restricted": false,
+   "permission": null,
+   "notification_level": 1,
+   "topic_template": "<!--\nFor general discussion\n\nFor general support, please use the Support category: http://forum.pretendo.network/c/support/6\n-->",
+   "topic_title_placeholder": null,
+   "has_children": false,
+   "subcategory_count": null,
+   "sort_order": null,
+   "sort_ascending": null,
+   "show_subcategory_list": false,
+   "num_featured_topics": 3,
+   "default_view": null,
+   "subcategory_list_style": "rows_with_featured_topics",
+   "default_top_period": "all",
+   "default_list_filter": "all",
+   "minimum_required_tags": 0,
+   "navigate_to_first_post_after_read": false,
+   "custom_fields": {
+    "enable_unassigned_filter": null,
+    "additional_assign_allowed_on_groups": null,
+    "sort_topics_by_event_start_date": null,
+    "disable_topic_resorting": null,
+    "create_as_post_voting_default": null,
+    "only_post_voting_in_this_category": null,
+    "enable_accepted_answers": null,
+    "notify_on_staff_accept_solved": null,
+    "empty_box_on_unsolved": null,
+    "enable_shared_issues": null,
+    "enable_topic_voting": null,
+    "has_chat_enabled": true
+   },
+   "allow_global_tags": false,
+   "read_only_banner": null,
+   "form_template_ids": [],
+   "required_tag_groups": [],
+   "category_types": {
+    "discussion": {
+     "id": "discussion",
+     "name": "Discussion",
+     "title": "discussion",
+     "description": "A standard category with all the essentials for conversation.",
+     "icon": "memo",
+     "available": true,
+     "visible": true,
+     "configuration_schema": {}
+    }
+   },
+   "uploaded_logo": null,
+   "uploaded_logo_dark": null,
+   "uploaded_background": null,
+   "uploaded_background_dark": null,
+   "can_edit": false
+  },
+  {
+   "id": 6,
+   "name": "Support",
+   "color": "3AB54A",
+   "text_color": "FFFFFF",
+   "style_type": "square",
+   "icon": null,
+   "emoji": null,
+   "slug": "support",
+   "topic_count": 742,
+   "post_count": 5001,
+   "position": 4,
+   "description": "Get general support about the service. This includes, but is not limited to, game servers, non-game applications, Miiverse, etc.",
+   "description_text": "Get general support about the service. This includes, but is not limited to, game servers, non-game applications, Miiverse, etc.",
+   "description_excerpt": "Get general support about the service. This includes, but is not limited to, game servers, non-game applications, Miiverse, etc.",
+   "topic_url": "/t/about-the-support-category/11",
+   "read_restricted": false,
+   "permission": null,
+   "notification_level": 1,
+   "topic_template": "<!--\nAsk a general support question.\n\n- *Have you checked if your question has already been asked?* Use the search icon in the top left if not.\n- *Is your question specifically Wii U, 3DS, or Cemu-related?* Consider posting this in the console's support subcategory instead.\n- *Got an error code?* Try searching it an https://pretendo.network/docs/search\n- *Is this a general homebrew question (not related to Pretendo)?* If so, it may be off-topic for this forum and closed. Try a general homebrew support forum like GBATemp or the Nintendo Homebrew Discord server.\n- *Found a bug?* Consider reporting it as an issue on the relevant GitHub repository at https://github.com/PretendoNetwork\n-->",
+   "topic_title_placeholder": null,
+   "has_children": true,
+   "subcategory_count": null,
+   "sort_order": null,
+   "sort_ascending": null,
+   "show_subcategory_list": true,
+   "num_featured_topics": 3,
+   "default_view": null,
+   "subcategory_list_style": "rows_with_featured_topics",
+   "default_top_period": "all",
+   "default_list_filter": "all",
+   "minimum_required_tags": 0,
+   "navigate_to_first_post_after_read": false,
+   "custom_fields": {
+    "has_chat_enabled": null,
+    "enable_unassigned_filter": null,
+    "additional_assign_allowed_on_groups": null,
+    "sort_topics_by_event_start_date": null,
+    "disable_topic_resorting": null,
+    "create_as_post_voting_default": null,
+    "only_post_voting_in_this_category": null,
+    "enable_shared_issues": null,
+    "enable_topic_voting": null,
+    "enable_accepted_answers": "true",
+    "notify_on_staff_accept_solved": "true",
+    "empty_box_on_unsolved": "false"
+   },
+   "allow_global_tags": false,
+   "read_only_banner": null,
+   "form_template_ids": [],
+   "required_tag_groups": [],
+   "category_types": {
+    "discussion": {
+     "id": "discussion",
+     "name": "Discussion",
+     "title": "discussion",
+     "description": "A standard category with all the essentials for conversation.",
+     "icon": "memo",
+     "available": true,
+     "visible": true,
+     "configuration_schema": {}
+    },
+    "support": {
+     "id": "support",
+     "name": "Support",
+     "title": "support",
+     "description": "Where members can ask questions and mark replies as solutions.",
+     "icon": "person_raising_hand",
+     "available": true,
+     "visible": true,
+     "configuration_schema": {
+      "general_category_settings": [
+       {
+        "key": "name",
+        "default": "Support",
+        "type": "string",
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "style_type",
+        "default": "emoji",
+        "type": "string",
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "emoji",
+        "default": "red_question_mark",
+        "type": "string",
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       }
+      ],
+      "site_settings": [
+       {
+        "key": "show_filter_by_solved_status",
+        "default": true,
+        "current": false,
+        "overridden": false,
+        "type": "bool",
+        "label": "Show filter by solved status",
+        "choices": null,
+        "description": "Show a dropdown to filter a topic list by solved status.",
+        "required": false,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "prioritize_solved_topics_in_search",
+        "default": false,
+        "current": false,
+        "overridden": false,
+        "type": "bool",
+        "label": "Prioritize solved topics in search",
+        "choices": null,
+        "description": "Prioritize solved topics in search results.",
+        "required": false,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "show_who_marked_solved",
+        "default": false,
+        "current": false,
+        "overridden": false,
+        "type": "bool",
+        "label": "Show who marked solved",
+        "choices": null,
+        "description": "Show who marked the topic as solved. This is indicated in the topic's first post, and the answer post in a tooltip.",
+        "required": false,
+        "show_on_create": true,
+        "show_on_edit": true
+       }
+      ],
+      "category_settings": [],
+      "category_custom_fields": [
+       {
+        "key": "enable_accepted_answers",
+        "default": true,
+        "type": "bool",
+        "subtype": null,
+        "label": "Allow topic owner and staff to mark a reply as the solution",
+        "description": null,
+        "choices": null,
+        "required": true,
+        "show_on_create": false,
+        "show_on_edit": false
+       },
+       {
+        "key": "solved_topics_auto_close_hours",
+        "default": 48,
+        "type": "integer",
+        "subtype": "duration",
+        "label": "Auto close solved topics",
+        "description": "Automatically close solved topics after this duration from the last reply. Set to 0 to disable.",
+        "choices": null,
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "notify_on_staff_accept_solved",
+        "default": true,
+        "type": "bool",
+        "subtype": null,
+        "label": "Notify topic creator when staff marks a solution",
+        "description": null,
+        "choices": null,
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "empty_box_on_unsolved",
+        "default": true,
+        "type": "bool",
+        "subtype": null,
+        "label": "Display unsolved topic state in the topic list for supported themes",
+        "description": null,
+        "choices": null,
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "enable_shared_issues",
+        "default": true,
+        "type": "bool",
+        "subtype": null,
+        "label": "Enable shared issues",
+        "description": "Adds a button to unsolved topics in this category that members can use to signal they're experiencing the same issue and opt in to notifications about the solution.",
+        "choices": null,
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       }
+      ],
+      "site_texts": [
+       {
+        "key": "js.solved.shared_issue.label",
+        "name": "js_solved_shared_issue_label",
+        "label": "Shared issue label",
+        "description": "The label shown on the shared issue button.",
+        "current": "Me too",
+        "show_on_create": true,
+        "show_on_edit": true,
+        "depends_on": "enable_shared_issues"
+       }
+      ]
+     },
+     "required_plugin": "Solved",
+     "can_enable_plugin": true
+    }
+   },
+   "uploaded_logo": null,
+   "uploaded_logo_dark": null,
+   "uploaded_background": null,
+   "uploaded_background_dark": null,
+   "can_edit": false
+  },
+  {
+   "id": 13,
+   "name": "Wii U Support",
+   "color": "0088CC",
+   "text_color": "FFFFFF",
+   "style_type": "square",
+   "icon": null,
+   "emoji": null,
+   "slug": "wii-u-support",
+   "topic_count": 644,
+   "post_count": 4626,
+   "position": 5,
+   "description": "Get general support for Pretendo on the Wii U.",
+   "description_text": "Get general support for Pretendo on the Wii U.",
+   "description_excerpt": "Get general support for Pretendo on the Wii U.",
+   "topic_url": "/t/about-the-wii-u-support-category/7720",
+   "read_restricted": false,
+   "permission": null,
+   "parent_category_id": 6,
+   "notification_level": 1,
+   "topic_template": "<!--\nAsk a Wii U-specific support question.\n\n- *Have you checked if your question has already been asked?* Use the search icon in the top left if not.\n- *Got an error code?* Try searching it an https://pretendo.network/docs/search\n- *Is this a general homebrew question (not related to Pretendo)?* If so, it may be off-topic for this forum and closed. Try a general homebrew support forum like GBATemp or the Nintendo Homebrew Discord server.\n- *Found a bug?* Consider reporting it as an issue on the relevant GitHub repository at https://github.com/PretendoNetwork\n-->",
+   "topic_title_placeholder": null,
+   "has_children": false,
+   "subcategory_count": null,
+   "sort_order": null,
+   "sort_ascending": null,
+   "show_subcategory_list": false,
+   "num_featured_topics": 3,
+   "default_view": null,
+   "subcategory_list_style": "rows_with_featured_topics",
+   "default_top_period": "all",
+   "default_list_filter": "all",
+   "minimum_required_tags": 0,
+   "navigate_to_first_post_after_read": false,
+   "custom_fields": {
+    "has_chat_enabled": null,
+    "enable_unassigned_filter": null,
+    "additional_assign_allowed_on_groups": null,
+    "sort_topics_by_event_start_date": null,
+    "disable_topic_resorting": null,
+    "create_as_post_voting_default": null,
+    "only_post_voting_in_this_category": null,
+    "enable_shared_issues": null,
+    "enable_topic_voting": null,
+    "enable_accepted_answers": "true",
+    "notify_on_staff_accept_solved": "true",
+    "empty_box_on_unsolved": "false"
+   },
+   "allow_global_tags": false,
+   "read_only_banner": null,
+   "form_template_ids": [],
+   "required_tag_groups": [],
+   "category_types": {
+    "discussion": {
+     "id": "discussion",
+     "name": "Discussion",
+     "title": "discussion",
+     "description": "A standard category with all the essentials for conversation.",
+     "icon": "memo",
+     "available": true,
+     "visible": true,
+     "configuration_schema": {}
+    },
+    "support": {
+     "id": "support",
+     "name": "Support",
+     "title": "support",
+     "description": "Where members can ask questions and mark replies as solutions.",
+     "icon": "person_raising_hand",
+     "available": true,
+     "visible": true,
+     "configuration_schema": {
+      "general_category_settings": [
+       {
+        "key": "name",
+        "default": "Support",
+        "type": "string",
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "style_type",
+        "default": "emoji",
+        "type": "string",
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "emoji",
+        "default": "red_question_mark",
+        "type": "string",
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       }
+      ],
+      "site_settings": [
+       {
+        "key": "show_filter_by_solved_status",
+        "default": true,
+        "current": false,
+        "overridden": false,
+        "type": "bool",
+        "label": "Show filter by solved status",
+        "choices": null,
+        "description": "Show a dropdown to filter a topic list by solved status.",
+        "required": false,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "prioritize_solved_topics_in_search",
+        "default": false,
+        "current": false,
+        "overridden": false,
+        "type": "bool",
+        "label": "Prioritize solved topics in search",
+        "choices": null,
+        "description": "Prioritize solved topics in search results.",
+        "required": false,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "show_who_marked_solved",
+        "default": false,
+        "current": false,
+        "overridden": false,
+        "type": "bool",
+        "label": "Show who marked solved",
+        "choices": null,
+        "description": "Show who marked the topic as solved. This is indicated in the topic's first post, and the answer post in a tooltip.",
+        "required": false,
+        "show_on_create": true,
+        "show_on_edit": true
+       }
+      ],
+      "category_settings": [],
+      "category_custom_fields": [
+       {
+        "key": "enable_accepted_answers",
+        "default": true,
+        "type": "bool",
+        "subtype": null,
+        "label": "Allow topic owner and staff to mark a reply as the solution",
+        "description": null,
+        "choices": null,
+        "required": true,
+        "show_on_create": false,
+        "show_on_edit": false
+       },
+       {
+        "key": "solved_topics_auto_close_hours",
+        "default": 48,
+        "type": "integer",
+        "subtype": "duration",
+        "label": "Auto close solved topics",
+        "description": "Automatically close solved topics after this duration from the last reply. Set to 0 to disable.",
+        "choices": null,
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "notify_on_staff_accept_solved",
+        "default": true,
+        "type": "bool",
+        "subtype": null,
+        "label": "Notify topic creator when staff marks a solution",
+        "description": null,
+        "choices": null,
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "empty_box_on_unsolved",
+        "default": true,
+        "type": "bool",
+        "subtype": null,
+        "label": "Display unsolved topic state in the topic list for supported themes",
+        "description": null,
+        "choices": null,
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "enable_shared_issues",
+        "default": true,
+        "type": "bool",
+        "subtype": null,
+        "label": "Enable shared issues",
+        "description": "Adds a button to unsolved topics in this category that members can use to signal they're experiencing the same issue and opt in to notifications about the solution.",
+        "choices": null,
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       }
+      ],
+      "site_texts": [
+       {
+        "key": "js.solved.shared_issue.label",
+        "name": "js_solved_shared_issue_label",
+        "label": "Shared issue label",
+        "description": "The label shown on the shared issue button.",
+        "current": "Me too",
+        "show_on_create": true,
+        "show_on_edit": true,
+        "depends_on": "enable_shared_issues"
+       }
+      ]
+     },
+     "required_plugin": "Solved",
+     "can_enable_plugin": true
+    }
+   },
+   "uploaded_logo": null,
+   "uploaded_logo_dark": null,
+   "uploaded_background": null,
+   "uploaded_background_dark": null,
+   "can_edit": false
+  },
+  {
+   "id": 14,
+   "name": "3DS Support",
+   "color": "BF1E2E",
+   "text_color": "FFFFFF",
+   "style_type": "square",
+   "icon": null,
+   "emoji": null,
+   "slug": "3ds-support",
+   "topic_count": 920,
+   "post_count": 6180,
+   "position": 6,
+   "description": "Get general support for Pretendo on the 3DS.",
+   "description_text": "Get general support for Pretendo on the 3DS.",
+   "description_excerpt": "Get general support for Pretendo on the 3DS.",
+   "topic_url": "/t/about-the-3ds-support-category/7721",
+   "read_restricted": false,
+   "permission": null,
+   "parent_category_id": 6,
+   "notification_level": 1,
+   "topic_template": "<!--\nAsk a 3DS-specific support question.\n\n- *Have you checked if your question has already been asked?* Use the search icon in the top left if not.\n- *Is your question specifically Wii U, 3DS, or Cemu-related?* Consider posting this in the console's support subcategory instead.\n- *Got an error code?* Try searching it an https://pretendo.network/docs/search\n- *Is this a general homebrew question (not related to Pretendo)?* If so, it may be off-topic for this forum and closed. Try a general homebrew support forum like GBATemp or the Nintendo Homebrew Discord server.\n- *Found a bug?* Consider reporting it as an issue on the relevant GitHub repository at https://github.com/PretendoNetwork\n-->",
+   "topic_title_placeholder": null,
+   "has_children": false,
+   "subcategory_count": null,
+   "sort_order": null,
+   "sort_ascending": null,
+   "show_subcategory_list": false,
+   "num_featured_topics": 3,
+   "default_view": null,
+   "subcategory_list_style": "rows_with_featured_topics",
+   "default_top_period": "all",
+   "default_list_filter": "all",
+   "minimum_required_tags": 0,
+   "navigate_to_first_post_after_read": false,
+   "custom_fields": {
+    "has_chat_enabled": null,
+    "enable_unassigned_filter": null,
+    "additional_assign_allowed_on_groups": null,
+    "sort_topics_by_event_start_date": null,
+    "disable_topic_resorting": null,
+    "create_as_post_voting_default": null,
+    "only_post_voting_in_this_category": null,
+    "enable_shared_issues": null,
+    "enable_topic_voting": null,
+    "enable_accepted_answers": "true",
+    "notify_on_staff_accept_solved": "true",
+    "empty_box_on_unsolved": "false"
+   },
+   "allow_global_tags": false,
+   "read_only_banner": null,
+   "form_template_ids": [],
+   "required_tag_groups": [],
+   "category_types": {
+    "discussion": {
+     "id": "discussion",
+     "name": "Discussion",
+     "title": "discussion",
+     "description": "A standard category with all the essentials for conversation.",
+     "icon": "memo",
+     "available": true,
+     "visible": true,
+     "configuration_schema": {}
+    },
+    "support": {
+     "id": "support",
+     "name": "Support",
+     "title": "support",
+     "description": "Where members can ask questions and mark replies as solutions.",
+     "icon": "person_raising_hand",
+     "available": true,
+     "visible": true,
+     "configuration_schema": {
+      "general_category_settings": [
+       {
+        "key": "name",
+        "default": "Support",
+        "type": "string",
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "style_type",
+        "default": "emoji",
+        "type": "string",
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "emoji",
+        "default": "red_question_mark",
+        "type": "string",
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       }
+      ],
+      "site_settings": [
+       {
+        "key": "show_filter_by_solved_status",
+        "default": true,
+        "current": false,
+        "overridden": false,
+        "type": "bool",
+        "label": "Show filter by solved status",
+        "choices": null,
+        "description": "Show a dropdown to filter a topic list by solved status.",
+        "required": false,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "prioritize_solved_topics_in_search",
+        "default": false,
+        "current": false,
+        "overridden": false,
+        "type": "bool",
+        "label": "Prioritize solved topics in search",
+        "choices": null,
+        "description": "Prioritize solved topics in search results.",
+        "required": false,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "show_who_marked_solved",
+        "default": false,
+        "current": false,
+        "overridden": false,
+        "type": "bool",
+        "label": "Show who marked solved",
+        "choices": null,
+        "description": "Show who marked the topic as solved. This is indicated in the topic's first post, and the answer post in a tooltip.",
+        "required": false,
+        "show_on_create": true,
+        "show_on_edit": true
+       }
+      ],
+      "category_settings": [],
+      "category_custom_fields": [
+       {
+        "key": "enable_accepted_answers",
+        "default": true,
+        "type": "bool",
+        "subtype": null,
+        "label": "Allow topic owner and staff to mark a reply as the solution",
+        "description": null,
+        "choices": null,
+        "required": true,
+        "show_on_create": false,
+        "show_on_edit": false
+       },
+       {
+        "key": "solved_topics_auto_close_hours",
+        "default": 48,
+        "type": "integer",
+        "subtype": "duration",
+        "label": "Auto close solved topics",
+        "description": "Automatically close solved topics after this duration from the last reply. Set to 0 to disable.",
+        "choices": null,
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "notify_on_staff_accept_solved",
+        "default": true,
+        "type": "bool",
+        "subtype": null,
+        "label": "Notify topic creator when staff marks a solution",
+        "description": null,
+        "choices": null,
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "empty_box_on_unsolved",
+        "default": true,
+        "type": "bool",
+        "subtype": null,
+        "label": "Display unsolved topic state in the topic list for supported themes",
+        "description": null,
+        "choices": null,
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "enable_shared_issues",
+        "default": true,
+        "type": "bool",
+        "subtype": null,
+        "label": "Enable shared issues",
+        "description": "Adds a button to unsolved topics in this category that members can use to signal they're experiencing the same issue and opt in to notifications about the solution.",
+        "choices": null,
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       }
+      ],
+      "site_texts": [
+       {
+        "key": "js.solved.shared_issue.label",
+        "name": "js_solved_shared_issue_label",
+        "label": "Shared issue label",
+        "description": "The label shown on the shared issue button.",
+        "current": "Me too",
+        "show_on_create": true,
+        "show_on_edit": true,
+        "depends_on": "enable_shared_issues"
+       }
+      ]
+     },
+     "required_plugin": "Solved",
+     "can_enable_plugin": true
+    }
+   },
+   "uploaded_logo": null,
+   "uploaded_logo_dark": null,
+   "uploaded_background": null,
+   "uploaded_background_dark": null,
+   "can_edit": false
+  },
+  {
+   "id": 15,
+   "name": "Cemu Support",
+   "color": "0088CC",
+   "text_color": "FFFFFF",
+   "style_type": "square",
+   "icon": null,
+   "emoji": null,
+   "slug": "cemu-support",
+   "topic_count": 48,
+   "post_count": 301,
+   "position": 7,
+   "description": "Get general support for Pretendo on the Cemu emulator.",
+   "description_text": "Get general support for Pretendo on the Cemu emulator.",
+   "description_excerpt": "Get general support for Pretendo on the Cemu emulator.",
+   "topic_url": "/t/about-the-cemu-support-category/7722",
+   "read_restricted": false,
+   "permission": null,
+   "parent_category_id": 6,
+   "notification_level": 1,
+   "topic_template": "<!--\nAsk a Cemu-specific support question.\n\n- *Have you checked if your question has already been asked?* Use the search icon in the top left if not.\n- *Is your question specifically Wii U, 3DS, or Cemu-related?* Consider posting this in the console's support subcategory instead.\n- *Got an error code?* Try searching it an https://pretendo.network/docs/search\n- *Is this a general homebrew question (not related to Pretendo)?* If so, it may be off-topic for this forum and closed. Try a general homebrew support forum like GBATemp or the Nintendo Homebrew Discord server.\n- *Found a bug?* Consider reporting it as an issue on the relevant GitHub repository at https://github.com/PretendoNetwork\n-->",
+   "topic_title_placeholder": null,
+   "has_children": false,
+   "subcategory_count": null,
+   "sort_order": null,
+   "sort_ascending": null,
+   "show_subcategory_list": false,
+   "num_featured_topics": 3,
+   "default_view": null,
+   "subcategory_list_style": "rows_with_featured_topics",
+   "default_top_period": "all",
+   "default_list_filter": "all",
+   "minimum_required_tags": 0,
+   "navigate_to_first_post_after_read": false,
+   "custom_fields": {
+    "has_chat_enabled": null,
+    "enable_unassigned_filter": null,
+    "additional_assign_allowed_on_groups": null,
+    "sort_topics_by_event_start_date": null,
+    "disable_topic_resorting": null,
+    "create_as_post_voting_default": null,
+    "only_post_voting_in_this_category": null,
+    "enable_shared_issues": null,
+    "enable_topic_voting": null,
+    "enable_accepted_answers": "true",
+    "notify_on_staff_accept_solved": "true",
+    "empty_box_on_unsolved": "false"
+   },
+   "allow_global_tags": false,
+   "read_only_banner": null,
+   "form_template_ids": [],
+   "required_tag_groups": [],
+   "category_types": {
+    "discussion": {
+     "id": "discussion",
+     "name": "Discussion",
+     "title": "discussion",
+     "description": "A standard category with all the essentials for conversation.",
+     "icon": "memo",
+     "available": true,
+     "visible": true,
+     "configuration_schema": {}
+    },
+    "support": {
+     "id": "support",
+     "name": "Support",
+     "title": "support",
+     "description": "Where members can ask questions and mark replies as solutions.",
+     "icon": "person_raising_hand",
+     "available": true,
+     "visible": true,
+     "configuration_schema": {
+      "general_category_settings": [
+       {
+        "key": "name",
+        "default": "Support",
+        "type": "string",
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "style_type",
+        "default": "emoji",
+        "type": "string",
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "emoji",
+        "default": "red_question_mark",
+        "type": "string",
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       }
+      ],
+      "site_settings": [
+       {
+        "key": "show_filter_by_solved_status",
+        "default": true,
+        "current": false,
+        "overridden": false,
+        "type": "bool",
+        "label": "Show filter by solved status",
+        "choices": null,
+        "description": "Show a dropdown to filter a topic list by solved status.",
+        "required": false,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "prioritize_solved_topics_in_search",
+        "default": false,
+        "current": false,
+        "overridden": false,
+        "type": "bool",
+        "label": "Prioritize solved topics in search",
+        "choices": null,
+        "description": "Prioritize solved topics in search results.",
+        "required": false,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "show_who_marked_solved",
+        "default": false,
+        "current": false,
+        "overridden": false,
+        "type": "bool",
+        "label": "Show who marked solved",
+        "choices": null,
+        "description": "Show who marked the topic as solved. This is indicated in the topic's first post, and the answer post in a tooltip.",
+        "required": false,
+        "show_on_create": true,
+        "show_on_edit": true
+       }
+      ],
+      "category_settings": [],
+      "category_custom_fields": [
+       {
+        "key": "enable_accepted_answers",
+        "default": true,
+        "type": "bool",
+        "subtype": null,
+        "label": "Allow topic owner and staff to mark a reply as the solution",
+        "description": null,
+        "choices": null,
+        "required": true,
+        "show_on_create": false,
+        "show_on_edit": false
+       },
+       {
+        "key": "solved_topics_auto_close_hours",
+        "default": 48,
+        "type": "integer",
+        "subtype": "duration",
+        "label": "Auto close solved topics",
+        "description": "Automatically close solved topics after this duration from the last reply. Set to 0 to disable.",
+        "choices": null,
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "notify_on_staff_accept_solved",
+        "default": true,
+        "type": "bool",
+        "subtype": null,
+        "label": "Notify topic creator when staff marks a solution",
+        "description": null,
+        "choices": null,
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "empty_box_on_unsolved",
+        "default": true,
+        "type": "bool",
+        "subtype": null,
+        "label": "Display unsolved topic state in the topic list for supported themes",
+        "description": null,
+        "choices": null,
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "enable_shared_issues",
+        "default": true,
+        "type": "bool",
+        "subtype": null,
+        "label": "Enable shared issues",
+        "description": "Adds a button to unsolved topics in this category that members can use to signal they're experiencing the same issue and opt in to notifications about the solution.",
+        "choices": null,
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       }
+      ],
+      "site_texts": [
+       {
+        "key": "js.solved.shared_issue.label",
+        "name": "js_solved_shared_issue_label",
+        "label": "Shared issue label",
+        "description": "The label shown on the shared issue button.",
+        "current": "Me too",
+        "show_on_create": true,
+        "show_on_edit": true,
+        "depends_on": "enable_shared_issues"
+       }
+      ]
+     },
+     "required_plugin": "Solved",
+     "can_enable_plugin": true
+    }
+   },
+   "uploaded_logo": null,
+   "uploaded_logo_dark": null,
+   "uploaded_background": null,
+   "uploaded_background_dark": null,
+   "can_edit": false
+  },
+  {
+   "id": 18,
+   "name": "Azahar Support",
+   "color": "a4ffbe",
+   "text_color": "FFFFFF",
+   "style_type": "square",
+   "icon": null,
+   "emoji": null,
+   "slug": "azahar-support",
+   "topic_count": 22,
+   "post_count": 89,
+   "position": 8,
+   "description": "Get general support for Pretendo on the Azahar emulator.",
+   "description_text": "Get general support for Pretendo on the Azahar emulator.",
+   "description_excerpt": "Get general support for Pretendo on the Azahar emulator.",
+   "topic_url": "/t/about-the-azahar-support-category/15842",
+   "read_restricted": false,
+   "permission": null,
+   "parent_category_id": 6,
+   "notification_level": 1,
+   "topic_template": null,
+   "topic_title_placeholder": null,
+   "has_children": false,
+   "subcategory_count": null,
+   "sort_order": null,
+   "sort_ascending": null,
+   "show_subcategory_list": false,
+   "num_featured_topics": 3,
+   "default_view": null,
+   "subcategory_list_style": "rows_with_featured_topics",
+   "default_top_period": "all",
+   "default_list_filter": "all",
+   "minimum_required_tags": 0,
+   "navigate_to_first_post_after_read": false,
+   "custom_fields": {
+    "has_chat_enabled": null,
+    "enable_unassigned_filter": null,
+    "additional_assign_allowed_on_groups": null,
+    "sort_topics_by_event_start_date": null,
+    "disable_topic_resorting": null,
+    "create_as_post_voting_default": null,
+    "only_post_voting_in_this_category": null,
+    "enable_shared_issues": null,
+    "enable_topic_voting": null,
+    "enable_accepted_answers": "true",
+    "notify_on_staff_accept_solved": "true",
+    "empty_box_on_unsolved": "false"
+   },
+   "allow_global_tags": false,
+   "read_only_banner": null,
+   "form_template_ids": [],
+   "required_tag_groups": [],
+   "category_types": {
+    "discussion": {
+     "id": "discussion",
+     "name": "Discussion",
+     "title": "discussion",
+     "description": "A standard category with all the essentials for conversation.",
+     "icon": "memo",
+     "available": true,
+     "visible": true,
+     "configuration_schema": {}
+    },
+    "support": {
+     "id": "support",
+     "name": "Support",
+     "title": "support",
+     "description": "Where members can ask questions and mark replies as solutions.",
+     "icon": "person_raising_hand",
+     "available": true,
+     "visible": true,
+     "configuration_schema": {
+      "general_category_settings": [
+       {
+        "key": "name",
+        "default": "Support",
+        "type": "string",
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "style_type",
+        "default": "emoji",
+        "type": "string",
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "emoji",
+        "default": "red_question_mark",
+        "type": "string",
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       }
+      ],
+      "site_settings": [
+       {
+        "key": "show_filter_by_solved_status",
+        "default": true,
+        "current": false,
+        "overridden": false,
+        "type": "bool",
+        "label": "Show filter by solved status",
+        "choices": null,
+        "description": "Show a dropdown to filter a topic list by solved status.",
+        "required": false,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "prioritize_solved_topics_in_search",
+        "default": false,
+        "current": false,
+        "overridden": false,
+        "type": "bool",
+        "label": "Prioritize solved topics in search",
+        "choices": null,
+        "description": "Prioritize solved topics in search results.",
+        "required": false,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "show_who_marked_solved",
+        "default": false,
+        "current": false,
+        "overridden": false,
+        "type": "bool",
+        "label": "Show who marked solved",
+        "choices": null,
+        "description": "Show who marked the topic as solved. This is indicated in the topic's first post, and the answer post in a tooltip.",
+        "required": false,
+        "show_on_create": true,
+        "show_on_edit": true
+       }
+      ],
+      "category_settings": [],
+      "category_custom_fields": [
+       {
+        "key": "enable_accepted_answers",
+        "default": true,
+        "type": "bool",
+        "subtype": null,
+        "label": "Allow topic owner and staff to mark a reply as the solution",
+        "description": null,
+        "choices": null,
+        "required": true,
+        "show_on_create": false,
+        "show_on_edit": false
+       },
+       {
+        "key": "solved_topics_auto_close_hours",
+        "default": 48,
+        "type": "integer",
+        "subtype": "duration",
+        "label": "Auto close solved topics",
+        "description": "Automatically close solved topics after this duration from the last reply. Set to 0 to disable.",
+        "choices": null,
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "notify_on_staff_accept_solved",
+        "default": true,
+        "type": "bool",
+        "subtype": null,
+        "label": "Notify topic creator when staff marks a solution",
+        "description": null,
+        "choices": null,
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "empty_box_on_unsolved",
+        "default": true,
+        "type": "bool",
+        "subtype": null,
+        "label": "Display unsolved topic state in the topic list for supported themes",
+        "description": null,
+        "choices": null,
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "enable_shared_issues",
+        "default": true,
+        "type": "bool",
+        "subtype": null,
+        "label": "Enable shared issues",
+        "description": "Adds a button to unsolved topics in this category that members can use to signal they're experiencing the same issue and opt in to notifications about the solution.",
+        "choices": null,
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       }
+      ],
+      "site_texts": [
+       {
+        "key": "js.solved.shared_issue.label",
+        "name": "js_solved_shared_issue_label",
+        "label": "Shared issue label",
+        "description": "The label shown on the shared issue button.",
+        "current": "Me too",
+        "show_on_create": true,
+        "show_on_edit": true,
+        "depends_on": "enable_shared_issues"
+       }
+      ]
+     },
+     "required_plugin": "Solved",
+     "can_enable_plugin": true
+    }
+   },
+   "uploaded_logo": null,
+   "uploaded_logo_dark": null,
+   "uploaded_background": null,
+   "uploaded_background_dark": null,
+   "can_edit": false
+  },
+  {
+   "id": 5,
+   "name": "Technical Discussion",
+   "color": "BF1E2E",
+   "text_color": "FFFFFF",
+   "style_type": "square",
+   "icon": null,
+   "emoji": null,
+   "slug": "technical-discussion",
+   "topic_count": 77,
+   "post_count": 529,
+   "position": 9,
+   "description": "For current and potential contributors to ask questions about, and generally discuss, various technical topics.",
+   "description_text": "For current and potential contributors to ask questions about, and generally discuss, various technical topics.",
+   "description_excerpt": "For current and potential contributors to ask questions about, and generally discuss, various technical topics.",
+   "topic_url": "/t/about-the-technical-discussion-category/10",
+   "read_restricted": false,
+   "permission": null,
+   "notification_level": 1,
+   "topic_template": "<!--\nFor technical questions and discussion\n\nFor general support, please use the Support category: http://forum.pretendo.network/c/support/6\n\nThis category is for current and potential contributors to ask questions about, and generally discuss, various technical topics. This includes hosting, documentation, codebases, etc.\n-->",
+   "topic_title_placeholder": null,
+   "has_children": false,
+   "subcategory_count": null,
+   "sort_order": null,
+   "sort_ascending": null,
+   "show_subcategory_list": false,
+   "num_featured_topics": 3,
+   "default_view": null,
+   "subcategory_list_style": "rows_with_featured_topics",
+   "default_top_period": "all",
+   "default_list_filter": "all",
+   "minimum_required_tags": 0,
+   "navigate_to_first_post_after_read": false,
+   "custom_fields": {
+    "has_chat_enabled": null,
+    "enable_unassigned_filter": null,
+    "additional_assign_allowed_on_groups": null,
+    "sort_topics_by_event_start_date": null,
+    "disable_topic_resorting": null,
+    "create_as_post_voting_default": null,
+    "only_post_voting_in_this_category": null,
+    "enable_accepted_answers": null,
+    "notify_on_staff_accept_solved": null,
+    "empty_box_on_unsolved": null,
+    "enable_shared_issues": null,
+    "enable_topic_voting": null
+   },
+   "allow_global_tags": false,
+   "read_only_banner": null,
+   "form_template_ids": [],
+   "required_tag_groups": [],
+   "category_types": {
+    "discussion": {
+     "id": "discussion",
+     "name": "Discussion",
+     "title": "discussion",
+     "description": "A standard category with all the essentials for conversation.",
+     "icon": "memo",
+     "available": true,
+     "visible": true,
+     "configuration_schema": {}
+    }
+   },
+   "uploaded_logo": null,
+   "uploaded_logo_dark": null,
+   "uploaded_background": null,
+   "uploaded_background_dark": null,
+   "can_edit": false
+  },
+  {
+   "id": 11,
+   "name": "Forum Meta",
+   "color": "808281",
+   "text_color": "FFFFFF",
+   "style_type": "square",
+   "icon": null,
+   "emoji": null,
+   "slug": "forum-meta",
+   "topic_count": 99,
+   "post_count": 786,
+   "position": 11,
+   "description": "This category is for discussion of the Pretendo Network Forum itself, which runs on <a href=\"https://discourse.org/about\">Discourse</a>. This is the right place to ask questions about or make suggestions for the Forum!",
+   "description_text": "This category is for discussion of the Pretendo Network Forum itself, which runs on Discourse. This is the right place to ask questions about or make suggestions for the Forum!",
+   "description_excerpt": "This category is for discussion of the Pretendo Network Forum itself, which runs on <a href=\"https://discourse.org/about\">Discourse</a>. This is the right place to ask questions about or make suggestions for the Forum!",
+   "topic_url": "/t/about-the-forum-meta-category/7671",
+   "read_restricted": false,
+   "permission": null,
+   "notification_level": 1,
+   "topic_template": null,
+   "topic_title_placeholder": null,
+   "has_children": false,
+   "subcategory_count": null,
+   "sort_order": null,
+   "sort_ascending": null,
+   "show_subcategory_list": false,
+   "num_featured_topics": 3,
+   "default_view": null,
+   "subcategory_list_style": "rows_with_featured_topics",
+   "default_top_period": "all",
+   "default_list_filter": "all",
+   "minimum_required_tags": 0,
+   "navigate_to_first_post_after_read": false,
+   "custom_fields": {
+    "has_chat_enabled": null,
+    "enable_unassigned_filter": null,
+    "additional_assign_allowed_on_groups": null,
+    "sort_topics_by_event_start_date": null,
+    "disable_topic_resorting": null,
+    "create_as_post_voting_default": null,
+    "only_post_voting_in_this_category": null,
+    "enable_shared_issues": null,
+    "enable_topic_voting": null,
+    "enable_accepted_answers": "true",
+    "notify_on_staff_accept_solved": "true",
+    "empty_box_on_unsolved": "false"
+   },
+   "allow_global_tags": false,
+   "read_only_banner": null,
+   "form_template_ids": [],
+   "required_tag_groups": [],
+   "category_types": {
+    "discussion": {
+     "id": "discussion",
+     "name": "Discussion",
+     "title": "discussion",
+     "description": "A standard category with all the essentials for conversation.",
+     "icon": "memo",
+     "available": true,
+     "visible": true,
+     "configuration_schema": {}
+    },
+    "support": {
+     "id": "support",
+     "name": "Support",
+     "title": "support",
+     "description": "Where members can ask questions and mark replies as solutions.",
+     "icon": "person_raising_hand",
+     "available": true,
+     "visible": true,
+     "configuration_schema": {
+      "general_category_settings": [
+       {
+        "key": "name",
+        "default": "Support",
+        "type": "string",
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "style_type",
+        "default": "emoji",
+        "type": "string",
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "emoji",
+        "default": "red_question_mark",
+        "type": "string",
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       }
+      ],
+      "site_settings": [
+       {
+        "key": "show_filter_by_solved_status",
+        "default": true,
+        "current": false,
+        "overridden": false,
+        "type": "bool",
+        "label": "Show filter by solved status",
+        "choices": null,
+        "description": "Show a dropdown to filter a topic list by solved status.",
+        "required": false,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "prioritize_solved_topics_in_search",
+        "default": false,
+        "current": false,
+        "overridden": false,
+        "type": "bool",
+        "label": "Prioritize solved topics in search",
+        "choices": null,
+        "description": "Prioritize solved topics in search results.",
+        "required": false,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "show_who_marked_solved",
+        "default": false,
+        "current": false,
+        "overridden": false,
+        "type": "bool",
+        "label": "Show who marked solved",
+        "choices": null,
+        "description": "Show who marked the topic as solved. This is indicated in the topic's first post, and the answer post in a tooltip.",
+        "required": false,
+        "show_on_create": true,
+        "show_on_edit": true
+       }
+      ],
+      "category_settings": [],
+      "category_custom_fields": [
+       {
+        "key": "enable_accepted_answers",
+        "default": true,
+        "type": "bool",
+        "subtype": null,
+        "label": "Allow topic owner and staff to mark a reply as the solution",
+        "description": null,
+        "choices": null,
+        "required": true,
+        "show_on_create": false,
+        "show_on_edit": false
+       },
+       {
+        "key": "solved_topics_auto_close_hours",
+        "default": 48,
+        "type": "integer",
+        "subtype": "duration",
+        "label": "Auto close solved topics",
+        "description": "Automatically close solved topics after this duration from the last reply. Set to 0 to disable.",
+        "choices": null,
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "notify_on_staff_accept_solved",
+        "default": true,
+        "type": "bool",
+        "subtype": null,
+        "label": "Notify topic creator when staff marks a solution",
+        "description": null,
+        "choices": null,
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "empty_box_on_unsolved",
+        "default": true,
+        "type": "bool",
+        "subtype": null,
+        "label": "Display unsolved topic state in the topic list for supported themes",
+        "description": null,
+        "choices": null,
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       },
+       {
+        "key": "enable_shared_issues",
+        "default": true,
+        "type": "bool",
+        "subtype": null,
+        "label": "Enable shared issues",
+        "description": "Adds a button to unsolved topics in this category that members can use to signal they're experiencing the same issue and opt in to notifications about the solution.",
+        "choices": null,
+        "required": null,
+        "show_on_create": true,
+        "show_on_edit": true
+       }
+      ],
+      "site_texts": [
+       {
+        "key": "js.solved.shared_issue.label",
+        "name": "js_solved_shared_issue_label",
+        "label": "Shared issue label",
+        "description": "The label shown on the shared issue button.",
+        "current": "Me too",
+        "show_on_create": true,
+        "show_on_edit": true,
+        "depends_on": "enable_shared_issues"
+       }
+      ]
+     },
+     "required_plugin": "Solved",
+     "can_enable_plugin": true
+    }
+   },
+   "uploaded_logo": null,
+   "uploaded_logo_dark": null,
+   "uploaded_background": null,
+   "uploaded_background_dark": null,
+   "can_edit": false
+  },
+  {
+   "id": 20,
+   "name": "publish-email",
+   "color": "F1592A",
+   "text_color": "FFFFFF",
+   "style_type": "icon",
+   "icon": "envelope",
+   "emoji": null,
+   "slug": "publish-email",
+   "topic_count": 7,
+   "post_count": 144,
+   "position": 15,
+   "description": null,
+   "description_text": null,
+   "description_excerpt": null,
+   "topic_url": "/t/about-the-publish-email-category/27147",
+   "read_restricted": false,
+   "permission": null,
+   "parent_category_id": 9,
+   "notification_level": 1,
+   "topic_template": null,
+   "topic_title_placeholder": null,
+   "has_children": false,
+   "subcategory_count": null,
+   "sort_order": null,
+   "sort_ascending": null,
+   "show_subcategory_list": false,
+   "num_featured_topics": 3,
+   "default_view": null,
+   "subcategory_list_style": "rows_with_featured_topics",
+   "default_top_period": "all",
+   "default_list_filter": "all",
+   "minimum_required_tags": 0,
+   "navigate_to_first_post_after_read": false,
+   "custom_fields": {
+    "has_chat_enabled": null,
+    "enable_unassigned_filter": null,
+    "additional_assign_allowed_on_groups": null,
+    "sort_topics_by_event_start_date": null,
+    "disable_topic_resorting": null,
+    "create_as_post_voting_default": null,
+    "only_post_voting_in_this_category": null,
+    "enable_accepted_answers": null,
+    "notify_on_staff_accept_solved": null,
+    "empty_box_on_unsolved": null,
+    "enable_shared_issues": null,
+    "enable_topic_voting": null
+   },
+   "allow_global_tags": false,
+   "read_only_banner": null,
+   "form_template_ids": [],
+   "required_tag_groups": [],
+   "category_types": {
+    "discussion": {
+     "id": "discussion",
+     "name": "Discussion",
+     "title": "discussion",
+     "description": "A standard category with all the essentials for conversation.",
+     "icon": "memo",
+     "available": true,
+     "visible": true,
+     "configuration_schema": {}
+    }
+   },
+   "uploaded_logo": null,
+   "uploaded_logo_dark": null,
+   "uploaded_background": null,
+   "uploaded_background_dark": null,
+   "can_edit": false
+  },
+  {
+   "id": 1,
+   "name": "Uncategorized",
+   "color": "0088CC",
+   "text_color": "FFFFFF",
+   "style_type": "square",
+   "icon": null,
+   "emoji": null,
+   "slug": "uncategorized",
+   "topic_count": 0,
+   "post_count": 0,
+   "position": 16,
+   "description": "",
+   "description_text": "Topics that don't need a category, or don't fit into any other existing category.",
+   "description_excerpt": "Topics that don't need a category, or don't fit into any other existing category.",
+   "topic_url": "/t/",
+   "read_restricted": false,
+   "permission": null,
+   "notification_level": 1,
+   "topic_template": null,
+   "topic_title_placeholder": null,
+   "has_children": false,
+   "subcategory_count": null,
+   "sort_order": null,
+   "sort_ascending": null,
+   "show_subcategory_list": false,
+   "num_featured_topics": 3,
+   "default_view": null,
+   "subcategory_list_style": "rows_with_featured_topics",
+   "default_top_period": "all",
+   "default_list_filter": "all",
+   "minimum_required_tags": 0,
+   "navigate_to_first_post_after_read": false,
+   "custom_fields": {
+    "has_chat_enabled": null,
+    "enable_unassigned_filter": null,
+    "additional_assign_allowed_on_groups": null,
+    "sort_topics_by_event_start_date": null,
+    "disable_topic_resorting": null,
+    "create_as_post_voting_default": null,
+    "only_post_voting_in_this_category": null,
+    "enable_accepted_answers": null,
+    "notify_on_staff_accept_solved": null,
+    "empty_box_on_unsolved": null,
+    "enable_shared_issues": null,
+    "enable_topic_voting": null
+   },
+   "allow_global_tags": false,
+   "read_only_banner": null,
+   "form_template_ids": [],
+   "required_tag_groups": [],
+   "category_types": {
+    "discussion": {
+     "id": "discussion",
+     "name": "Discussion",
+     "title": "discussion",
+     "description": "A standard category with all the essentials for conversation.",
+     "icon": "memo",
+     "available": true,
+     "visible": true,
+     "configuration_schema": {}
+    }
+   },
+   "uploaded_logo": null,
+   "uploaded_logo_dark": null,
+   "uploaded_background": null,
+   "uploaded_background_dark": null,
+   "can_edit": false
+  }
+ ],
+ "markdown_additional_options": {
+  "chat": {
+   "limited_pretty_text_features": [
+    "anchor",
+    "bbcode-block",
+    "bbcode-inline",
+    "code",
+    "category-hashtag",
+    "censored",
+    "chat-transcript",
+    "discourse-local-dates",
+    "emoji",
+    "inlineEmoji",
+    "html-img",
+    "hashtag-autocomplete",
+    "mentions",
+    "unicodeUsernames",
+    "onebox",
+    "quotes",
+    "spoiler-alert",
+    "table",
+    "text-post-process",
+    "upload-protocol",
+    "watched-words",
+    "chat-html-inline"
+   ],
+   "limited_pretty_text_markdown_rules": [
+    "autolink",
+    "list",
+    "backticks",
+    "newline",
+    "code",
+    "fence",
+    "image",
+    "table",
+    "linkify",
+    "link",
+    "strikethrough",
+    "blockquote",
+    "emphasis",
+    "replacements",
+    "escape",
+    "entity"
+   ],
+   "hashtag_configurations": {
+    "topic-composer": [
+     "category",
+     "tag"
+    ],
+    "chat-composer": [
+     "category",
+     "tag"
+    ]
+   }
+  }
+ },
+ "hashtag_configurations": {
+  "topic-composer": [
+   "category",
+   "tag"
+  ],
+  "chat-composer": [
+   "category",
+   "tag"
+  ]
+ },
+ "system_user_avatar_template": "/uploads/default/original/1X/5297dad82461e0bb646fce8b787fc8002d853978.png",
+ "full_name_required_for_signup": false,
+ "full_name_visible_in_signup": true,
+ "email_configured": true,
+ "upcoming_changes_with_css": [
+  "enable_composer_redesign",
+  "enable_new_checkbox_style",
+  "floating_dismiss_topics_on_mobile",
+  "modernize_foundation_theme"
+ ],
+ "access_control": {
+  "mandatory_acl": {},
+  "banned_acl": {}
+ },
+ "discourse_math_bundle_url": "/plugins/discourse-math/1.0.1",
+ "user_fields": [],
+ "auth_providers": []
+}

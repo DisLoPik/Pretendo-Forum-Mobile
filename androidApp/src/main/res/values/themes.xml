@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        The window theme only covers the moment before Compose draws. It is painted with
+        the Pretendo navy so a cold start does not flash white, and the system bars are
+        left transparent because the app draws edge to edge behind them.
+    -->
+    <style name="Theme.PretendoForum" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/pretendo_background</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+    </style>
+</resources>
